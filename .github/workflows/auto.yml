@@ -33,5 +33,7 @@ jobs:
           git push --force
       - name: Find line and save to file
         run: |
-          grep "681109b688b9d85d0938c6ba\/master" output/plutotv_us.m3u8 > t2.m3u8
+          grep -m 2 "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 > output/t2.m3u8
+      - name: Show result
+        run: cat output/t2.m3u8
           
