@@ -2271,6 +2271,11 @@
         <desc>La véritable histoire du samouraï Ayothaya Era...</desc>
         <icon src="https://images.pluto.tv/series/64539468a7ef77001a24b993/tile_1768326482754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260310023601 +0000" stop="20260310043522 +0000">
+        <title>Metro Manila</title>
+        <desc>Oscar Ramirez quitte les montagnes du nord des Philippines avec sa famille pour s’installer à Metro Manila. Devenus proies faciles dans cette ville impitoyable, il devra tout risquer pour protéger les siens.</desc>
+        <icon src="https://images.pluto.tv/series/6980851b00cf117a55c86861/tile_1770030363842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64c9260ac0222700089ee62b" start="20260309220000 +0000" stop="20260309223000 +0000">
         <title>Family Club</title>
         <desc>Family Club, la chaîne 100% famille, arrive sur Pluto TV. Aventure, animaux, humour, magie, … : Family Club, c’est plus de 130 heures de films et séries pour toute la famille. Family Club, la chaîne des émotions à vivre en famille..</desc>
@@ -2768,6 +2773,11 @@
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260310001500 +0000" stop="20260310022200 +0000">
         <title>Y'a que la vérité qui compte: Épisode 75</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260310022200 +0000" stop="20260310040100 +0000">
+        <title>Y'a que la vérité qui compte: Episode 96</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
@@ -32283,10 +32293,10 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310220000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260310231600 +0000">
         <title>Boxing</title>
