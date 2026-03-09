@@ -33,7 +33,21 @@ jobs:
           git push --force
       - name: Find line and save to file
         run: |
+          echo "#EXTM3U\n\n" > output/t2.m3u8
+          echo "#EXT-X-INDEPENDENT-SEGMENTS\n\n" > output/t2.m3u8
           grep -m 2 "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 > output/t2.m3u8
       - name: Show result
         run: cat output/t2.m3u8
-          
+      - name: Commit and push T2 file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add output/t2.m3u8
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add extracted line file"
+            git push
+          fi
