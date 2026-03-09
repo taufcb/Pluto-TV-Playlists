@@ -1741,6 +1741,11 @@
         <desc>En 1995, un homme d'affaires, Jack Harris, bâtit la première société en ligne à vendre du divertissement pour adultes.</desc>
         <icon src="https://images.pluto.tv/series/61f24f5b6f81a5001bd45800/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260310015646 +0000" stop="20260310033646 +0000">
+        <title>Absolute deception FR</title>
+        <desc>John Nelson, agent du FBI, apprend que son meilleur indicateur, Miles, a été enlevé puis assassiné.</desc>
+        <icon src="https://images.pluto.tv/series/606588aaf6870e001a5b8da6/tile_1768378099123.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260309205356 +0000" stop="20260309223307 +0000">
         <title>Party Girl</title>
         <desc>Dans cette comédie mouvementée, Parker Posey joue le rôle d'une fêtarde invétérée de NY qui prend un emploi de bibliothécaire.</desc>
@@ -5363,6 +5368,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Tungsten Talk</title>
         <desc>Charlie Martin talks about his Winmau Championship Tour and Global Championship runs - and what to expect next.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dce8cf62654291f73f/tile_1757662181491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260310014900 +0000" stop="20260310020900 +0000">
+        <title>Super Series Staff Vs The Bullseye Challenge</title>
+        <desc>Super Series staff face off in the Bullseye challenge in this exciting showdown!</desc>
+        <icon src="https://images.pluto.tv/series/67e2e205e8cf626542923325/tile_1758039152590.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67921b78b83355184c667770" start="20260309213000 +0000" stop="20260309220000 +0000">
         <title>UFC</title>
@@ -29875,11 +29885,6 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="650aff3398020f00086380cd" start="20260310173000 +0000" stop="20260310180000 +0000">
         <title>Le Figaro TV</title>
         <desc>Le Figaro Live : l'information en direct et en continu</desc>
@@ -31790,7 +31795,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260311013000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260311013000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
