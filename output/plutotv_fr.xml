@@ -22425,6 +22425,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260310175800 +0000" stop="20260310200600 +0000">
+        <title>Y'a que la vérité qui compte: Episode 39</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6130d9c712c2b000070abb50" start="20260310131900 +0000" stop="20260310134400 +0000">
         <title>Yu-Gi-Oh! FR: JEU DE MEMOIRE – 2ème PARTIE</title>
         <desc>Mai a l’intention de s’emparer de la carte de Dieu Egyptien de Marek. Réussira-t-elle ce coup de maître ?</desc>
@@ -31785,12 +31790,7 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260311013000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260311013000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
