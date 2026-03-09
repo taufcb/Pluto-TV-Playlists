@@ -18,8 +18,7 @@
   "uniqueClientid": false,
   "randomClientid": false,
   "refresh": 0,
-  //"xTvgUrl": false,
-  "xTvgUrl": 681109b688b9d85d0938c6ba,
+  "xTvgUrl": false,
   "ondemand": false,
   "vlcopts": false,
   "pipeopts": false
