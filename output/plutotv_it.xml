@@ -12459,6 +12459,11 @@ Estrella Invitada: Vicky McClure.</desc>
         <desc>Alexandre vive en Lyon con su esposa e hijos. Por casualidad, se entera de que el sacerdote que abusó de él cuando era un boy scout sigue trabajando con niños. Se lanza a un combate al que se unen otras víctimas del sacerdote…</desc>
         <icon src="https://images.pluto.tv/series/60d0436828f1d30013ed3852/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260310111713 +0000" stop="20260310130513 +0000">
+        <title>Corazón Silencioso</title>
+        <desc>Tres generaciones de una familia se reúnen un fin de semana. Las hermanas, Sanne y Heidi, han aceptado que su madre, enferma terminal, quiera poner fin a su vida antes de que su estado empeore.</desc>
+        <icon src="https://images.pluto.tv/series/60d1863ad2de2a001300373b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260310052405 +0000" stop="20260310061905 +0000">
         <title>Historias de Ultratumba: Cazadores de leyendas</title>
         <desc>Cuenta la leyenda que un "fantasma" empujará a cualquiera que se atreva a sentarse en lo alto del mausoleo en el cementerio más antiguo de Wisconsin. Los compañeros de secundaria Nick, Krystian y Jon prueban esta teoría en la noche de Halloween.</desc>
@@ -26947,6 +26952,11 @@ Estrella Invitada: Timothy Spall.</desc>
         <desc>La hermosa mestiza Pearl Chavez se convierte en pupila del primer amor de su padre muerto.</desc>
         <icon src="https://images.pluto.tv/series/6372309041c0980014a40d96/tile_1768599003740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260310223035 +0000" stop="20260311003854 +0000">
+        <title>Ciudadano Kane</title>
+        <desc>Ganadora del Oscar a Mejor Guion Original, 1941. Un importante magnate Charles Foster Kane, dueño de una cadena de periódicos, de una red de emisoras, dos sindicatos y una colección de obras de arte, muere en Xanadú.</desc>
+        <icon src="https://images.pluto.tv/series/673aff404ad856001349a57d/tile_1769190841841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260310174649 +0000" stop="20260310183537 +0000">
         <title>America's Next Top Model</title>
         <desc>Kahlen le gasta una broma a Christina, Tiffany descubre que el sushi no le gusta y otras imágenes nunca antes vistas.</desc>
@@ -27262,6 +27272,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <title>El amor es extraño</title>
         <desc>Ben y George aprovechan la nueva ley y deciden casarse. De vuelta de la luna de miel, debido al revuelo mediático que generó su matrimonio, despiden a George de su puesto como director del coro de una escuela católica mixta.</desc>
         <icon src="https://images.pluto.tv/series/60d0437628f1d30013ed3c12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260310220413 +0000" stop="20260311000813 +0000">
+        <title>Happy End</title>
+        <desc>A nuestro alrededor, el mundo, y nosotros en medio, ciegos. Una instantánea de la vida de una familia burguesa europea.</desc>
+        <icon src="https://images.pluto.tv/series/60d0436a28f1d30013ed38e5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260310175305 +0000" stop="20260310184205 +0000">
         <title>Historias de Ultratumba: La Habitación Fantasma</title>
@@ -31641,7 +31656,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
         <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260310220531 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260310220531 +0000" stop="20260310223531 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260310223531 +0000" stop="20260310230531 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260310230531 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31651,7 +31676,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
         <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260310220610 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20260310220610 +0000" stop="20260310223610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20260310223610 +0000" stop="20260310230610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20260310230610 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31661,7 +31696,22 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Vuelven las desventuras de estas dos veinteañeras sin un duro en el bolsillo que batallan contra las complicadas situaciones que les plantea la ciudad de Nueva York, esta vez en la crudeza del pleno invierno.</desc>
         <icon src="https://images.pluto.tv/series/5fb782b6e8b7e6001a75313b/tile_1769109121720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8f49205650007bc15f1" start="20260310220047 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260310220047 +0000" stop="20260310222347 +0000">
+        <title>Broad City: Florida</title>
+        <desc>Vuelven las desventuras de estas dos veinteañeras sin un duro en el bolsillo que batallan contra las complicadas situaciones que les plantea la ciudad de Nueva York, esta vez en la crudeza del pleno invierno.</desc>
+        <icon src="https://images.pluto.tv/series/5fb782b6e8b7e6001a75313b/tile_1769109121720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260310222347 +0000" stop="20260310224647 +0000">
+        <title>Broad City: Cuidando una casa</title>
+        <desc>Vuelven las desventuras de estas dos veinteañeras sin un duro en el bolsillo que batallan contra las complicadas situaciones que les plantea la ciudad de Nueva York, esta vez en la crudeza del pleno invierno.</desc>
+        <icon src="https://images.pluto.tv/series/5fb782b6e8b7e6001a75313b/tile_1769109121720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260310224647 +0000" stop="20260310233600 +0000">
+        <title>Z Nation</title>
+        <desc>Murphy, Warren, Vasquez y Addy se encuentran en un casino mienras los Nativos capturan a 10K y Doc.</desc>
+        <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260310233600 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31671,7 +31721,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
         <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260310220701 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260310220701 +0000" stop="20260310223701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260310223701 +0000" stop="20260310230701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260310230701 +0000" stop="20260311020000 +0000">
         <title>Bob Esponja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31681,7 +31741,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Receta: focaccia con rucula, aceitunas, jamon. Olivos de Ibon Labayen en Moreda de Alava. Seccion ¿truco o reto?:  que comida rapida tiene mas calorias.</desc>
         <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260310224300 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260310224300 +0000" stop="20260310233100 +0000">
+        <title>A Bocados: A Bocados 51</title>
+        <desc>Receta: consome de gallina y sopa de cebolla. Miguel Angel Garcia, criador de gallinas, explica las caracteristicas de la gallina vasca y muestra ejemplares de zilarra.</desc>
+        <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260310233100 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Cocina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31691,7 +31756,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Segunda parte del viaje de Frank y su equipo por la selva de Costa Rica, en la que sigue encontrando animales de lo más variado, desde un puercoespín mexicano hasta un vampiro.</desc>
         <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600ae6a78d801e0007117d21" start="20260310224819 +0000" stop="20260311020000 +0000">
+    <programme channel="600ae6a78d801e0007117d21" start="20260310224819 +0000" stop="20260310234519 +0000">
+        <title>Frank de la jungla: Un Río llamado Mekong</title>
+        <desc>Desde hace 240 millones de años es el rey de los ríos y lagos de agua estancada. El cocodrilo es el soberano que gobierna la transición entre el agua y la tierra. Frank recorre los ríos de Tailandia en busca del cocodrilo en estado salvaje.</desc>
+        <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600ae6a78d801e0007117d21" start="20260310234519 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Animales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31701,7 +31771,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
         <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260310222000 +0000" stop="20260311020000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20260310222000 +0000" stop="20260310225000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20260310225000 +0000" stop="20260310232000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20260310232000 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31711,7 +31791,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Siobhan se niega y cree poder librarse sin que Hari sepa que el bebé no es suyo. Katie y Trudi se reconcilian.</desc>
         <icon src="https://images.pluto.tv/series/66cda94446be43001381c297/tile_1769200201115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dafb9a0df1ba000758d37b" start="20260310225038 +0000" stop="20260311020000 +0000">
+    <programme channel="60dafb9a0df1ba000758d37b" start="20260310225038 +0000" stop="20260310234935 +0000">
+        <title>Mistresses</title>
+        <desc>Trudi va donde Katie y dice que vió a Paul. Esta dice que debe hablar con él, por estar tranquila.</desc>
+        <icon src="https://images.pluto.tv/series/66cda94446be43001381c297/tile_1769200201115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dafb9a0df1ba000758d37b" start="20260310234935 +0000" stop="20260311020000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/featuredImage_1770367705306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31721,7 +31806,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
         <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="60dd6b1da79e4d0007309455" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31731,7 +31826,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>En esta recreación del Salvaje Oeste, los bebés intentan atrapar a Angélica, quien ha robado sus cupones de helado gratis. // Tommy sueña que Chuckie y Angélica se intercambian de personalidad.</desc>
         <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260310221800 +0000" stop="20260311020000 +0000">
+    <programme channel="610c09219fc0430007a3fce6" start="20260310221800 +0000" stop="20260310224500 +0000">
+        <title>Rugrats, aventuras en pañales: Cuidando a Fluffy / Insomnio</title>
+        <desc>Chas y Chuckie se ven obligados a cuidar de la malvada gata de Angélica cuando ella y su familia se van de la ciudad. // Tommy y Chuckie temen que el Hombre Arena venga a por ellos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20260310224500 +0000" stop="20260310231200 +0000">
+        <title>Rugrats, aventuras en pañales: Viaje al centro del sótano / El cumpleaños de Mcnulty</title>
+        <desc>Los niños hacen un viaje al sótano para salvar el juguete favorito de Chuckie. // Los niños van a una fiesta de cumpleaños en casa de los McNulty y Timmy les dice que las niñas tienen piojos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20260310231200 +0000" stop="20260311020000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/featuredImage-1632239835308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31741,7 +31846,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
         <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373f1a12dd9f00077dcd6f" start="20260310220548 +0000" stop="20260311020000 +0000">
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260310220548 +0000" stop="20260310223548 +0000">
+        <title>Las tortugas ninja</title>
+        <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
+        <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260310223548 +0000" stop="20260310230548 +0000">
+        <title>Las tortugas ninja</title>
+        <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
+        <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260310230548 +0000" stop="20260311020000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31751,7 +31866,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Carly nunca ha gastado una broma y le pide ayuda a Spencer para gastarle una broma a Sam y a Freddie, pero Spencer, después de probarlo, ahora no puede dejar de gastar bromas. La pandilla debe arreglárselas para pararlo.</desc>
         <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6181404ef48321000797bc41" start="20260310222400 +0000" stop="20260311020000 +0000">
+    <programme channel="6181404ef48321000797bc41" start="20260310222400 +0000" stop="20260310225000 +0000">
+        <title>iCarly: La madre de Sam</title>
+        <desc>Después de tener una discusión con su madre, Sam se muda con Carly, quien pronto se da cuenta de que es un huésped horrible. Freddie es perseguido por un criminal después de haberlo grabado en vídeo cometiendo un crimen.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20260310225000 +0000" stop="20260310231600 +0000">
+        <title>iCarly: Pobre Nevel</title>
+        <desc>Cuando un vídeo de Nevel gritándole a una niña pequeña recorre la red, todo el mundo empieza a odiar a Nevel. Después de celebrar que Nevel se va, el equipo de iCarly trabaja para recuperar su reputación después de que él se lo suplique.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20260310231600 +0000" stop="20260311020000 +0000">
         <title>iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31771,7 +31896,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>La populares fiestas de San Antonio Abad de la localidad mallorquina de Pollença son interrumpidas por el brutal asesinato de Llorenç Colom, golpeado hasta la muerte con un hacha en su domicilio.</desc>
         <icon src="https://images.pluto.tv/series/5f7c4d1db06bf7001adb2b4d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61cd7b49543066000713b620" start="20260310224202 +0000" stop="20260311020000 +0000">
+    <programme channel="61cd7b49543066000713b620" start="20260310224202 +0000" stop="20260310231002 +0000">
+        <title>Descubrir</title>
+        <desc>Descubrir transporta al espectador a los destinos más famosos y por las rutas menos transitadas, donde uno puede sentirse un verdadero viajero, disfrutando de paisajes diferentes, conociendo otras gentes y mucho más</desc>
+        <icon src="https://images.pluto.tv/series/5fa3ef19fd17cc001a0011cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61cd7b49543066000713b620" start="20260310231002 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61cd7b49543066000713b620/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31781,7 +31911,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
         <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="622f42b831233300078658cc" start="20260310220416 +0000" stop="20260311020000 +0000">
+    <programme channel="622f42b831233300078658cc" start="20260310220416 +0000" stop="20260310230216 +0000">
+        <title>Aragoneses por el mundo: Florida</title>
+        <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+        <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="622f42b831233300078658cc" start="20260310230216 +0000" stop="20260311020000 +0000">
         <title>Ciudadanos por el mundo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31791,7 +31926,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>A las Winx se les unirá una nueva hada, Aisha, y lucharán contra un nuevo enemigo, Darkar. Bloom es la única que puede derrotarlo, y tras los contratiempos y las batallas, su amor por Sky lo hará posible.</desc>
         <icon src="https://images.pluto.tv/series/62b2d4caa83a1b0013daee93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62568a94ed1f380007b0211f" start="20260310223600 +0000" stop="20260311020000 +0000">
+    <programme channel="62568a94ed1f380007b0211f" start="20260310223600 +0000" stop="20260310230100 +0000">
+        <title>Winx Club: Un acontecimiento inesperado</title>
+        <desc>Bloom, una chica normal, descubre que tiene poderes mágicos cuando se encuentra en medio de una pelea entre un hada, Stella, y un ogro, Knut.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20260310230100 +0000" stop="20260311020000 +0000">
         <title>Winx Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31801,7 +31941,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Orleans está asediada por los ingleses y Juana de Arco, al frente de sus tropas, salvará la ciudad. Carlos VII es coronado rey de Francia. Si la guerra hace estragos, la peste aún hace más.</desc>
         <icon src="https://images.pluto.tv/series/6245aff725269a0013abc393/tile_1769122441726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c69c87808b740007599fe1" start="20260310221300 +0000" stop="20260311020000 +0000">
+    <programme channel="63c69c87808b740007599fe1" start="20260310221300 +0000" stop="20260310224300 +0000">
+        <title>Érase una vez... El hombre: El hombre del renacimiento</title>
+        <desc>Florencia, en el taller del maestro Verrocchio, un joven talento se afianza: se llama Leonardo da Vinci. Sueña con volar y con desviar los ríos de su curso. Morirá en 1519 en Amboise y junto a él estará el rey de Francia, Francisco I.</desc>
+        <icon src="https://images.pluto.tv/series/6245aff725269a0013abc393/tile_1769122441726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20260310224300 +0000" stop="20260310231400 +0000">
+        <title>Érase una vez... El hombre: El siglo de oro español</title>
+        <desc>Carlos V, a la edad de 16 años, asciende al prestigioso trono de España donde reina la Inquisición. Los buques españoles viajan al recién descubierto Nuevo Mundo para volver con toneladas de oro.</desc>
+        <icon src="https://images.pluto.tv/series/6245aff725269a0013abc393/tile_1769122441726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20260310231400 +0000" stop="20260311020000 +0000">
         <title>Érase una vez...</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31811,7 +31961,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
         <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260310222518 +0000" stop="20260311020000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20260310222518 +0000" stop="20260310225518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260310225518 +0000" stop="20260310232518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260310232518 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31821,7 +31981,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Los sentimientos de Tae-ha por Yeo-reum se complican al reencontrarse, aunque ella sigue amando a Ha-jin. Tae-ha ve accidentalmente a Ha-jin con A-rim, lo que genera tensión entre ellos.</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/d37aaede-18d2-4943-bcdc-20633c4179d0.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6475bfec536e0c0008858e9f" start="20260310222019 +0000" stop="20260311020000 +0000">
+    <programme channel="6475bfec536e0c0008858e9f" start="20260310222019 +0000" stop="20260310233151 +0000">
+        <title>Descubrimiento del Amor</title>
+        <desc>Tras una pelea, Tae-ha se siente triste al ver que Yeo-reum solo se preocupa por Ha-jin. Mientras tanto, Ha-jin ayuda a A-rim y la ve con frecuencia, incluso le miente a Yeo-reum.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/d37aaede-18d2-4943-bcdc-20633c4179d0.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6475bfec536e0c0008858e9f" start="20260310233151 +0000" stop="20260311020000 +0000">
         <title>Pluto TV K-Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31831,7 +31996,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Dermot tiene un desafío, ya que debe trabajar con un presupuesto ajustado de 210,000 € y tiene mucho que hacer para cumplir con lo que Jim y Mary quieren.</desc>
         <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20260310225641 +0000" stop="20260311020000 +0000">
+    <programme channel="64db2e0835425100080f2f5a" start="20260310225641 +0000" stop="20260310235540 +0000">
+        <title>Espacio Para Mejorar</title>
+        <desc>Conor y Amy son una pareja joven que ha decidido echar raíces juntos renovando una antigua granja.</desc>
+        <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64db2e0835425100080f2f5a" start="20260310235540 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Diseño</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31841,7 +32011,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>MJ y Mike adquieren a buen precio una vivienda llena de amianto en la orilla del río St. Lawrence. Por otra parte, en su casa del campo, Mike y MJ tienen que restaurar por completo el exterior.</desc>
         <icon src="https://images.pluto.tv/series/6789920ddaa34700140637d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786abdb3801200084c593a" start="20260310221500 +0000" stop="20260311020000 +0000">
+    <programme channel="65786abdb3801200084c593a" start="20260310221500 +0000" stop="20260310230700 +0000">
+        <title>Holmes &amp; Holmes</title>
+        <desc>Mike y MJ añaden un segundo piso a la casa de campo. Problemas estructurales peligrosos en la casa del río los obligan a derribar el techo y las paredes del segundo piso.</desc>
+        <icon src="https://images.pluto.tv/series/6789920ddaa34700140637d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786abdb3801200084c593a" start="20260310230700 +0000" stop="20260311020000 +0000">
         <title>Homeful</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786abdb3801200084c593a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31861,7 +32036,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
         <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Metal Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31871,7 +32056,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Heidi ha decidido hacerse cabrera, aunque le cuesta un poco al principio. El abuelo decide volver al pueblo para intercambiar por pan y otros alimentos su queso y las cosas de madera que hace. Heidi aprende a silbar y a ordeñar con Pedro.</desc>
         <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68779a09c691b3f0964127c6" start="20260310220939 +0000" stop="20260311020000 +0000">
+    <programme channel="68779a09c691b3f0964127c6" start="20260310220939 +0000" stop="20260310223639 +0000">
+        <title>El susurro de los abetos</title>
+        <desc>El verano está llegando a su fin, hace tres meses que Heidi llegó a los Alpes. Pichí es ya un adulto y travieso pajarillo. El otoño se acerca y en lo alto de las montañas empieza a soplar el viento.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20260310223639 +0000" stop="20260310230339 +0000">
+        <title>Heidi 2D: ¿A dónde ha ido Pitchí?</title>
+        <desc>Con la llegada del frío, Pichí tiene que migrar. Heidi se pone muy triste porque al principio no lo entiende, pero el abuelo se lo explica. Pedro, viendo lo triste que está Heidi, coge un pájaro para ella.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20260310230339 +0000" stop="20260311020000 +0000">
         <title>Heidi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage-1757319877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31881,7 +32076,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Con sus marcas reveladas, las chicas intentan superar las adversidades, atrapar a Kristov y salvar al mundo.</desc>
         <icon src="https://images.pluto.tv/series/68cac3180a7c328ed5b3783b/tile_1758118681725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6880aa28164eb4890282e803" start="20260310222302 +0000" stop="20260311020000 +0000">
+    <programme channel="6880aa28164eb4890282e803" start="20260310222302 +0000" stop="20260310224820 +0000">
+        <title>Academia Supernatural</title>
+        <desc>Unos poderosos agentes cazan a las gemelas y la Manada las ayuda en su escape.</desc>
+        <icon src="https://images.pluto.tv/series/68cac3180a7c328ed5b3783b/tile_1758118681725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6880aa28164eb4890282e803" start="20260310224820 +0000" stop="20260310231403 +0000">
+        <title>Academia Supernatural</title>
+        <desc>Jessa, Mischa y Jae escapan al Mundo Humano, pero temen tener que huir por siempre.</desc>
+        <icon src="https://images.pluto.tv/series/68cac3180a7c328ed5b3783b/tile_1758118681725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6880aa28164eb4890282e803" start="20260310231403 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6880aa28164eb4890282e803/featuredImage_1760522021301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31891,7 +32096,22 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Episodios:  Tutorial de maquillaje arcoíris / Cambio de look del dormitorio / Las emociones / La amistad de Barbie y Ken / Receta de tarta de limón</desc>
         <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20260310220655 +0000" stop="20260311020000 +0000">
+    <programme channel="688892172928933015abe479" start="20260310220655 +0000" stop="20260310222448 +0000">
+        <title>Barbie Dream Vacation, Ultimate Dream Vacation</title>
+        <desc>Barbie y sus amigas viven la aventura definitiva en un viaje lleno de sol, amistad y diversión. Entre playas, fiestas y nuevos retos, descubrirán que las mejores vacaciones son las que se comparten con quienes más quieres.</desc>
+        <icon src="https://images.pluto.tv/series/6931495863142c96a9a3eab4/tile_1764837721869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20260310222448 +0000" stop="20260310224917 +0000">
+        <title>Barbie: Vlogger</title>
+        <desc>Incluye: Entrevista con Ester Dean / Verdadero o falso con Stacie / ¡El misterio de la goma del pelo desaparecida! / Gran entrega de regalos navideños con Trey / Galletas navideñas con Ken / Cuenta atrás de Nochevieja con Ken y Renee</desc>
+        <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20260310224917 +0000" stop="20260310231404 +0000">
+        <title>Barbie: Dreamtopia shorts</title>
+        <desc>En Dreamtopia, ¡no hay límite para lo que Chelsea y Barbie pueden imaginar!</desc>
+        <icon src="https://images.pluto.tv/series/6930004b63142c96a91a248c/tile_1764802067566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20260310231404 +0000" stop="20260311020000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31901,7 +32121,22 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20260310220143 +0000" stop="20260311020000 +0000">
+    <programme channel="6888928eb52fb742416673d2" start="20260310220143 +0000" stop="20260310222623 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20260310222623 +0000" stop="20260310225103 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20260310225103 +0000" stop="20260310231545 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20260310231545 +0000" stop="20260311020000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6888928eb52fb742416673d2/featuredImage_1765806188472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31911,7 +32146,22 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>La Pitufina</desc>
         <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27949793c71d988ca624c" start="20260310220520 +0000" stop="20260311020000 +0000">
+    <programme channel="68d27949793c71d988ca624c" start="20260310220520 +0000" stop="20260310223006 +0000">
+        <title>Los Pitufos</title>
+        <desc>El Pitufo Aprendiz / El Pitufo Vanidoso</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260310223006 +0000" stop="20260310225727 +0000">
+        <title>Los Pitufos</title>
+        <desc>El Rey Pitufo / Medicina Para Bromista</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260310225727 +0000" stop="20260310232310 +0000">
+        <title>Los Pitufos</title>
+        <desc>El Astropitufo</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260310232310 +0000" stop="20260311020000 +0000">
         <title>Los Pitufos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage_1760370849906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31921,7 +32171,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El contratista Brian McCourt y la diseñadora Sarah Keenleyside ofrecen espacios de patio trasero personalizados.</desc>
         <icon src="https://images.pluto.tv/series/6944039663f946a2ce49a175/tile_1766065102598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20260310221800 +0000" stop="20260311020000 +0000">
+    <programme channel="690dd10a37b131228d76d5b1" start="20260310221800 +0000" stop="20260310224400 +0000">
+        <title>S.O.S. Jardines</title>
+        <desc>Craig y Claudia se están quedando sin espacio debido a sus dos perros enormes y las visitas familiares regulares. Brian y Sarah se embarcan en un nuevo desafío para cumplir con sus expectativas, con la construcción de un bar deportivo.</desc>
+        <icon src="https://images.pluto.tv/series/6944039663f946a2ce49a175/tile_1766065102598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690dd10a37b131228d76d5b1" start="20260310224400 +0000" stop="20260310231000 +0000">
+        <title>Viajes de lujo</title>
+        <desc>Un recorrido lleno de lujos, comodidad y clase para visitar los hoteles y playas de las mejores ciudades del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/6944039863f946a2ce49a428/tile_1766065051984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690dd10a37b131228d76d5b1" start="20260310231000 +0000" stop="20260311020000 +0000">
         <title>El Mueble</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage_1764966923664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31931,7 +32191,22 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Puck se marcha y está siendo despedido por todos los habitantes de la pradera. El único que no aparece es Alejandro.</desc>
         <icon src="https://images.pluto.tv/series/680f54739f0436e1ab84a6e1/tile_1769018041616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691ddf2a3ae32cf55263476d" start="20260310220105 +0000" stop="20260311020000 +0000">
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260310220105 +0000" stop="20260310222541 +0000">
+        <title>Marco</title>
+        <desc>El barco en el que Marco ha subido, está lleno de inmigrantes, muy débiles y pobres. Marco decide compartir su pan fresco con todos los demás.</desc>
+        <icon src="https://images.pluto.tv/series/66cdb48b46be43001381ed38/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260310222541 +0000" stop="20260310225209 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Ya es verano y hace calor. Esto supone un peligro para la colmena de abejas. La cera está amenazando con derretirse.</desc>
+        <icon src="https://images.pluto.tv/series/680f54739f0436e1ab84a6e1/tile_1769018041616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260310225209 +0000" stop="20260310231918 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Maya se encuentra con escarabajo de aspecto bastante débil junto al arroyo. Ello lo ayuda a cruzar el puente y, aunque hace mucho énfasis en que puede espabilarse solo, le da las gracias.</desc>
+        <icon src="https://images.pluto.tv/series/680f54739f0436e1ab84a6e1/tile_1769018041616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260310231918 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Forever Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/featuredImage_1763569070882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31941,7 +32216,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Ya conoces a Fernando, Jawy, Tadeo, Caballero, Karime, Mane, Joyce y Talía y sabes lo que son capaces de hacer, pero ¿podrán TRABAJAR?</desc>
         <icon src="https://images.pluto.tv/series/627a12cd81ecb700133d9411/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20260310223938 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1aadf373bed3000794d1d7" start="20260310223938 +0000" stop="20260310233038 +0000">
+        <title>Acapulco Shore: Episodio 103</title>
+        <desc>La fiesta continúa en la costa de Acapulco. ¡Esta vez es todos contra todos! También veremos: lecciones de modales ... y la primera pareja para tener relaciones sexuales en la casa.</desc>
+        <icon src="https://images.pluto.tv/series/627a12cd81ecb700133d9411/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aadf373bed3000794d1d7" start="20260310233038 +0000" stop="20260311020000 +0000">
         <title>MTV Originals</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31951,7 +32231,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
         <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260310221545 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1ab3c7778230000735cf41" start="20260310221545 +0000" stop="20260310224545 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ab3c7778230000735cf41" start="20260310224545 +0000" stop="20260310231545 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ab3c7778230000735cf41" start="20260310231545 +0000" stop="20260311020000 +0000">
         <title>MTV Catfish TV Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31961,7 +32251,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Kash ha estado con su novio Nate durante aproximadamente un año, pero lucha con su inmadurez. Kash tiene que ver si Nate puede manejar estas nuevas responsabilidades adultas o si simplemente no está listo para tomárselo en serio.</desc>
         <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260310221500 +0000" stop="20260311020000 +0000">
+    <programme channel="5f98537a5a4341000733aefe" start="20260310221500 +0000" stop="20260310230000 +0000">
+        <title>Embarazada a los 16: Kali</title>
+        <desc>Kali y Auston se sorprendieron al quedar embarazados tan jóvenes. Auston se mudó con Kali, pero nunca hubo un acuerdo oficial. Los padres de Kali se han visto obligados a acogerlo, mientras que los abuelos de Auston solo quieren que vuelva a casa.</desc>
+        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f98537a5a4341000733aefe" start="20260310230000 +0000" stop="20260310234600 +0000">
+        <title>Embarazada a los 16: Selena</title>
+        <desc>El embarazo de Selena fue un shock para su familia, especialmente porque no aprobaron su relación con su novio Sean. Pero cuando esa relación cae en tiempos difíciles, Selena se ve obligada a elegir entre su familia y el padre de su hijo.</desc>
+        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f98537a5a4341000733aefe" start="20260310234600 +0000" stop="20260311020000 +0000">
         <title>MTV Embarazada a los 16</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31971,7 +32271,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
         <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="600169ec77e6f70008fa9cf0" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31981,7 +32291,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
         <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260310222952 +0000" stop="20260311020000 +0000">
+    <programme channel="604f81a49ef73300070e554f" start="20260310222952 +0000" stop="20260310225952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20260310225952 +0000" stop="20260310232952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20260310232952 +0000" stop="20260311020000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31991,7 +32311,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El World Poker Tour regresa al Playground Poker Club en Montreal, Quebec, Canadá, y 732 jugadores compiten por su parte del pozo de premios de más de $ 2  millones.</desc>
         <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260310220100 +0000" stop="20260311020000 +0000">
+    <programme channel="6080381ab7c9ea00074ec64c" start="20260310220100 +0000" stop="20260310224600 +0000">
+        <title>World Poker Tour: WPT Montreal - Parte 2</title>
+        <desc>Quedan cinco jugadores en la mesa final del WPT Montreal en Playground Poker Club. El ganador se llevará a casa más de $ 400,000, junto con un par de auriculares Monster® 24K® y un reloj Hublot® King Power Unico.</desc>
+        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080381ab7c9ea00074ec64c" start="20260310224600 +0000" stop="20260310233600 +0000">
+        <title>World Poker Tour: WPT Montreal - Parte 3</title>
+        <desc>Solo Jonathan Jaffe y Ratharam Sivagnanam se encuentran entre el Jugador del Año del WPT de la XIII Temporada Mukul Pahuja y su primer título del WPT. El ganador del WPT Montreal gana más de $ 400,000 y un asiento en el Campeonato Mundial WPT.</desc>
+        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080381ab7c9ea00074ec64c" start="20260310233600 +0000" stop="20260311020000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32001,7 +32331,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
         <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="60d3583ef310610007fb02b1" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Noticias de última hora</title>
+        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
+        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d3583ef310610007fb02b1" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Noticias de última hora</title>
+        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
+        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d3583ef310610007fb02b1" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32011,7 +32351,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Charlotte aprende demasiado sobre Love Islander, Darylle y su novio y los secretos de la habitación de Carlo. Renee y Emma ventilan sus trapos sucios, y los australianos en el extranjero, Tom y Emily, ponen en juego su nueva relación.</desc>
         <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260310222700 +0000" stop="20260311020000 +0000">
+    <programme channel="611b87946b7f420007c22361" start="20260310222700 +0000" stop="20260310231700 +0000">
+        <title>Tattoo a dos: Los mejores amienemigos</title>
+        <desc>Los mejores amigos, Millie y Jordan, toman la última prueba de confianza, pero las cosas van uesta abajo en la revelación. Angel tiene un mensaje para enviar a su novio, Sonny. Y los hermanos, Connor y Liam, llevan las cosas demasiado lejos.</desc>
+        <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611b87946b7f420007c22361" start="20260310231700 +0000" stop="20260311020000 +0000">
         <title>MTV Tattoo a dos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32021,7 +32366,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d8dc943001000708548d" start="20260310220944 +0000" stop="20260311020000 +0000">
+    <programme channel="6130d8dc943001000708548d" start="20260310220944 +0000" stop="20260310223944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260310223944 +0000" stop="20260310230944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260310230944 +0000" stop="20260311020000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/featuredImage_1750751822231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32031,7 +32386,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
         <icon src="https://images.pluto.tv/series/66228e100fb7c10013ff6df6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20260310230000 +0000" stop="20260311020000 +0000">
+    <programme channel="6231ede1be5b460007f91bc1" start="20260310230000 +0000" stop="20260311010000 +0000">
+        <title>24/7 Primetime</title>
+        <desc>24/7 Primetime is your essential daily guide to all the stories shaping your world. Anchored by CBS News' Elizabeth Cook, the show delivers the news you need to know.</desc>
+        <icon src="https://images.pluto.tv/series/68ed5a7ba44f8dcccd701ec8/tile_1760479390389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ede1be5b460007f91bc1" start="20260311010000 +0000" stop="20260311020000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32041,7 +32401,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El grupo regresa del primer viaje del Tour Europeo de Despedidas de Solteros de Amsterdam y es el momento de quemar la noche de Newcastle otra vez. Vicky y Ricci celebran una cena para celebrar su primer aniversario juntos.</desc>
         <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260310220615 +0000" stop="20260311020000 +0000">
+    <programme channel="627d3176d7dfa500077042f1" start="20260310220615 +0000" stop="20260310225615 +0000">
+        <title>Geordie Shore: Episodio 503</title>
+        <desc>Sube la tensión cuando James invita a su nueva novia a una noche de marcha con los Geordies, obviamente a Holly no le hace mucha gracia.</desc>
+        <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="627d3176d7dfa500077042f1" start="20260310225615 +0000" stop="20260310234615 +0000">
+        <title>Geordie Shore: Episodio 504</title>
+        <desc>Los Geordies siguen en Tour Europeo de Despedidas de Soltero, esta vez la lian parda en Praga. El caos reina cuando Gaz se enrolla otra vez con Charlotte.</desc>
+        <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="627d3176d7dfa500077042f1" start="20260310234615 +0000" stop="20260311020000 +0000">
         <title>MTV Geordies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32051,7 +32421,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>La panda arropan a Mike mientras se despide de su querido Mosey.</desc>
         <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1769124242383.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310221319 +0000" stop="20260311020000 +0000">
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310221319 +0000" stop="20260310230103 +0000">
+        <title>Jersey Shore: Vacaciones en familia</title>
+        <desc>Snooki convierte a Deena, Angelian y JWoww en animadoras. Mike se inspira en Rocky para entrenar para el Campeonato de Cornhole.</desc>
+        <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1769124242383.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310230103 +0000" stop="20260311020000 +0000">
         <title>MTV Jerseys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32061,7 +32436,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
         <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260310221351 +0000" stop="20260311020000 +0000">
+    <programme channel="63eb9495a8b227000841bf64" start="20260310221351 +0000" stop="20260310224351 +0000">
+        <title>MTV Vergüenza Ajena</title>
+        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
+        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb9495a8b227000841bf64" start="20260310224351 +0000" stop="20260310231351 +0000">
+        <title>MTV Vergüenza Ajena</title>
+        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
+        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb9495a8b227000841bf64" start="20260310231351 +0000" stop="20260311020000 +0000">
         <title>MTV Vergüenza ajena</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32071,7 +32456,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260310220538 +0000" stop="20260311020000 +0000">
+    <programme channel="6523f672a6c38300088cb807" start="20260310220538 +0000" stop="20260310223758 +0000">
+        <title>El Reino Infantil: Episodio 80</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20260310223758 +0000" stop="20260310230759 +0000">
+        <title>El Reino Infantil: Episodio 81</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20260310230759 +0000" stop="20260311020000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6523f672a6c38300088cb807/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32091,7 +32486,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Diego Maradona's Argentina beating Germany FR in the Azteca explained.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7b96446070bd3cdeef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260310220500 +0000" stop="20260311020000 +0000">
+    <programme channel="660c29f80cd4630008f1547c" start="20260310220500 +0000" stop="20260310235400 +0000">
+        <title>1986 FIFA World Cup</title>
+        <desc>¡FIFA+ te trae lo mejor de la Copa Mundial de la FIFA 2022 y la Copa Mundial Femenina de la FIFA 2023! Partidos en vivo, documentales y mucho más sobre tus futbolistas favoritos y sobre el fútbol de todas las partes del planeta.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7996446070bd3cdc70/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c29f80cd4630008f1547c" start="20260310235400 +0000" stop="20260311020000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32101,7 +32501,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
         <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e22624e1d000087a111c" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="6618e22624e1d000087a111c" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Gaming Central: Shooters</title>
+        <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
+        <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e22624e1d000087a111c" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Gaming Central: Shooters</title>
+        <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
+        <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e22624e1d000087a111c" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Gaming Central: Shooters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e22624e1d000087a111c/featuredImage_1747991045799.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32111,7 +32521,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
         <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a440c8ea5560008a4db8a" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="663a440c8ea5560008a4db8a" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Gaming Central: League of Legends</title>
+        <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
+        <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="663a440c8ea5560008a4db8a" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Gaming Central: League of Legends</title>
+        <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
+        <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="663a440c8ea5560008a4db8a" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Gaming Central: League of Legends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/663a440c8ea5560008a4db8a/featuredImage_1747990939208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32121,7 +32541,12 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20260310230000 +0000" stop="20260311020000 +0000">
+    <programme channel="66c45c0de7f5e80008b82005" start="20260310230000 +0000" stop="20260311000000 +0000">
+        <title>Top stories from CNN</title>
+        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
+        <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c45c0de7f5e80008b82005" start="20260311000000 +0000" stop="20260311020000 +0000">
         <title>CNN Headlines</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/featuredImage_1745489269886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32131,7 +32556,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
         <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66fd36ca9269330008412b6c" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="66fd36ca9269330008412b6c" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Gol Classics</title>
+        <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
+        <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd36ca9269330008412b6c" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Gol Classics</title>
+        <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
+        <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd36ca9269330008412b6c" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Gol Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66fd36ca9269330008412b6c/featuredImage_1747991119439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32151,7 +32586,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
         <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="67517fae5534bb0008187997" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Actualidad 360</title>
+        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
+        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517fae5534bb0008187997" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Actualidad 360</title>
+        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
+        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517fae5534bb0008187997" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Actualidad 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32161,7 +32606,17 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
         <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="67921b873de7c8cf94233f52" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>UFC</title>
+        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b873de7c8cf94233f52" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>UFC</title>
+        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b873de7c8cf94233f52" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
