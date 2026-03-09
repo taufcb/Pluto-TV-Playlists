@@ -31,11 +31,12 @@ jobs:
           git add .
 
       - name: Find line and save to file
-        run: |
-          grep "#EXTM3U" > t2.m3u8
-          grep "#EXT-X-INDEPENDENT-SEGMENTS" >> t2.m3u8
+        run: 
+          grep "#EXTM3U\r\n" > t2.m3u8
+          grep "#EXT-X-INDEPENDENT-SEGMENTS\r\n" >> t2.m3u8
           grep -m 1 "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 >> t2.m3u8
           grep -m 2 "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 >> t2.m3u8
+          
       - name: Show result
         run: cat t2.m3u8
       - name: Commit and push T2 file
