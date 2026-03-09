@@ -2311,6 +2311,11 @@ Estrella Invitada: Christian Slater.</desc>
         <desc>Suzanne sueña con convertirse en una presentadora estrella de la televisión. No quiere que nada ni nadie se interponga en su camino. Por esa razón intentará eliminar a su marido, que representa un gran obstáculo para su carrera.</desc>
         <icon src="https://images.pluto.tv/series/6189443b836015001bd072ad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260310025019 +0000" stop="20260310044119 +0000">
+        <title>It Follows</title>
+        <desc>Jay tiene un encuentro sexual con su novio en un coche. Tras el hecho, la situación se pone tensa cuando su novio hace que ella se desmaye. Al despertar, el joven le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan.</desc>
+        <icon src="https://images.pluto.tv/series/618263cbb5d0e9001a8caa45/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260309213057 +0000" stop="20260309221927 +0000">
         <title>America's Next Top Model</title>
         <desc>Una modelo se enoja con su novio en casa y es tentada por otro hombre.</desc>
@@ -6472,6 +6477,11 @@ Estrella Invitada: David Tennant.</desc>
         <icon src="https://images.pluto.tv/series/654a2dc805bcdf001a32a41e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20260310050539 +0000" stop="20260310064127 +0000">
+        <title>La Mirada</title>
+        <desc>Dramaturga duda entre manipulación y perder la realidad.</desc>
+        <icon src="https://images.pluto.tv/series/68ff8ea569032f4edf06e0c7/tile_1761578665913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8a87cd38d000745d7cf" start="20260310064127 +0000" stop="20260310081715 +0000">
         <title>La Mirada</title>
         <desc>Dramaturga duda entre manipulación y perder la realidad.</desc>
         <icon src="https://images.pluto.tv/series/68ff8ea569032f4edf06e0c7/tile_1761578665913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -27253,11 +27263,6 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Ben y George aprovechan la nueva ley y deciden casarse. De vuelta de la luna de miel, debido al revuelo mediático que generó su matrimonio, despiden a George de su puesto como director del coro de una escuela católica mixta.</desc>
         <icon src="https://images.pluto.tv/series/60d0437628f1d30013ed3c12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60cc807324d60a0007708dc8" start="20260310220413 +0000" stop="20260311000813 +0000">
-        <title>Happy End</title>
-        <desc>A nuestro alrededor, el mundo, y nosotros en medio, ciegos. Una instantánea de la vida de una familia burguesa europea.</desc>
-        <icon src="https://images.pluto.tv/series/60d0436a28f1d30013ed38e5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260310175305 +0000" stop="20260310184205 +0000">
         <title>Historias de Ultratumba: La Habitación Fantasma</title>
         <desc>Una familia descubre una habitación secreta en su nueva casa, enfureciendo a un fantasma que hará lo imposible para expulsarlos.</desc>
@@ -31936,12 +31941,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Ya conoces a Fernando, Jawy, Tadeo, Caballero, Karime, Mane, Joyce y Talía y sabes lo que son capaces de hacer, pero ¿podrán TRABAJAR?</desc>
         <icon src="https://images.pluto.tv/series/627a12cd81ecb700133d9411/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20260310223938 +0000" stop="20260310233038 +0000">
-        <title>Acapulco Shore: Episodio 103</title>
-        <desc>La fiesta continúa en la costa de Acapulco. ¡Esta vez es todos contra todos! También veremos: lecciones de modales ... y la primera pareja para tener relaciones sexuales en la casa.</desc>
-        <icon src="https://images.pluto.tv/series/627a12cd81ecb700133d9411/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20260310233038 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1aadf373bed3000794d1d7" start="20260310223938 +0000" stop="20260311020000 +0000">
         <title>MTV Originals</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31951,17 +31951,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
         <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260310221545 +0000" stop="20260310224545 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260310224545 +0000" stop="20260310231545 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260310231545 +0000" stop="20260311020000 +0000">
+    <programme channel="5f1ab3c7778230000735cf41" start="20260310221545 +0000" stop="20260311020000 +0000">
         <title>MTV Catfish TV Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31971,17 +31961,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Kash ha estado con su novio Nate durante aproximadamente un año, pero lucha con su inmadurez. Kash tiene que ver si Nate puede manejar estas nuevas responsabilidades adultas o si simplemente no está listo para tomárselo en serio.</desc>
         <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260310221500 +0000" stop="20260310230000 +0000">
-        <title>Embarazada a los 16: Kali</title>
-        <desc>Kali y Auston se sorprendieron al quedar embarazados tan jóvenes. Auston se mudó con Kali, pero nunca hubo un acuerdo oficial. Los padres de Kali se han visto obligados a acogerlo, mientras que los abuelos de Auston solo quieren que vuelva a casa.</desc>
-        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260310230000 +0000" stop="20260310234600 +0000">
-        <title>Embarazada a los 16: Selena</title>
-        <desc>El embarazo de Selena fue un shock para su familia, especialmente porque no aprobaron su relación con su novio Sean. Pero cuando esa relación cae en tiempos difíciles, Selena se ve obligada a elegir entre su familia y el padre de su hijo.</desc>
-        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1769106966269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260310234600 +0000" stop="20260311020000 +0000">
+    <programme channel="5f98537a5a4341000733aefe" start="20260310221500 +0000" stop="20260311020000 +0000">
         <title>MTV Embarazada a los 16</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31991,17 +31971,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
         <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>MTV Dating</title>
-        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
-        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>MTV Dating</title>
-        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
-        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="600169ec77e6f70008fa9cf0" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32011,17 +31981,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
         <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260310222952 +0000" stop="20260310225952 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
-        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260310225952 +0000" stop="20260310232952 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
-        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260310232952 +0000" stop="20260311020000 +0000">
+    <programme channel="604f81a49ef73300070e554f" start="20260310222952 +0000" stop="20260311020000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32031,17 +31991,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El World Poker Tour regresa al Playground Poker Club en Montreal, Quebec, Canadá, y 732 jugadores compiten por su parte del pozo de premios de más de $ 2  millones.</desc>
         <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260310220100 +0000" stop="20260310224600 +0000">
-        <title>World Poker Tour: WPT Montreal - Parte 2</title>
-        <desc>Quedan cinco jugadores en la mesa final del WPT Montreal en Playground Poker Club. El ganador se llevará a casa más de $ 400,000, junto con un par de auriculares Monster® 24K® y un reloj Hublot® King Power Unico.</desc>
-        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260310224600 +0000" stop="20260310233600 +0000">
-        <title>World Poker Tour: WPT Montreal - Parte 3</title>
-        <desc>Solo Jonathan Jaffe y Ratharam Sivagnanam se encuentran entre el Jugador del Año del WPT de la XIII Temporada Mukul Pahuja y su primer título del WPT. El ganador del WPT Montreal gana más de $ 400,000 y un asiento en el Campeonato Mundial WPT.</desc>
-        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1768939920776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260310233600 +0000" stop="20260311020000 +0000">
+    <programme channel="6080381ab7c9ea00074ec64c" start="20260310220100 +0000" stop="20260311020000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32051,17 +32001,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
         <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="60d3583ef310610007fb02b1" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32071,12 +32011,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Charlotte aprende demasiado sobre Love Islander, Darylle y su novio y los secretos de la habitación de Carlo. Renee y Emma ventilan sus trapos sucios, y los australianos en el extranjero, Tom y Emily, ponen en juego su nueva relación.</desc>
         <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260310222700 +0000" stop="20260310231700 +0000">
-        <title>Tattoo a dos: Los mejores amienemigos</title>
-        <desc>Los mejores amigos, Millie y Jordan, toman la última prueba de confianza, pero las cosas van uesta abajo en la revelación. Angel tiene un mensaje para enviar a su novio, Sonny. Y los hermanos, Connor y Liam, llevan las cosas demasiado lejos.</desc>
-        <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260310231700 +0000" stop="20260311020000 +0000">
+    <programme channel="611b87946b7f420007c22361" start="20260310222700 +0000" stop="20260311020000 +0000">
         <title>MTV Tattoo a dos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32086,17 +32021,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d8dc943001000708548d" start="20260310220944 +0000" stop="20260310223944 +0000">
-        <title>MTV Reality</title>
-        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6130d8dc943001000708548d" start="20260310223944 +0000" stop="20260310230944 +0000">
-        <title>MTV Reality</title>
-        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6130d8dc943001000708548d" start="20260310230944 +0000" stop="20260311020000 +0000">
+    <programme channel="6130d8dc943001000708548d" start="20260310220944 +0000" stop="20260311020000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/featuredImage_1750751822231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32106,12 +32031,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
         <icon src="https://images.pluto.tv/series/66228e100fb7c10013ff6df6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20260310230000 +0000" stop="20260311010000 +0000">
-        <title>24/7 Primetime</title>
-        <desc>24/7 Primetime is your essential daily guide to all the stories shaping your world. Anchored by CBS News' Elizabeth Cook, the show delivers the news you need to know.</desc>
-        <icon src="https://images.pluto.tv/series/68ed5a7ba44f8dcccd701ec8/tile_1760479390389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20260311010000 +0000" stop="20260311020000 +0000">
+    <programme channel="6231ede1be5b460007f91bc1" start="20260310230000 +0000" stop="20260311020000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32121,17 +32041,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>El grupo regresa del primer viaje del Tour Europeo de Despedidas de Solteros de Amsterdam y es el momento de quemar la noche de Newcastle otra vez. Vicky y Ricci celebran una cena para celebrar su primer aniversario juntos.</desc>
         <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260310220615 +0000" stop="20260310225615 +0000">
-        <title>Geordie Shore: Episodio 503</title>
-        <desc>Sube la tensión cuando James invita a su nueva novia a una noche de marcha con los Geordies, obviamente a Holly no le hace mucha gracia.</desc>
-        <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260310225615 +0000" stop="20260310234615 +0000">
-        <title>Geordie Shore: Episodio 504</title>
-        <desc>Los Geordies siguen en Tour Europeo de Despedidas de Soltero, esta vez la lian parda en Praga. El caos reina cuando Gaz se enrolla otra vez con Charlotte.</desc>
-        <icon src="https://images.pluto.tv/series/61518d5c4b88c80013355fd1/tile_1769118127320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260310234615 +0000" stop="20260311020000 +0000">
+    <programme channel="627d3176d7dfa500077042f1" start="20260310220615 +0000" stop="20260311020000 +0000">
         <title>MTV Geordies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32141,12 +32051,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>La panda arropan a Mike mientras se despide de su querido Mosey.</desc>
         <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1769124242383.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310221319 +0000" stop="20260310230103 +0000">
-        <title>Jersey Shore: Vacaciones en familia</title>
-        <desc>Snooki convierte a Deena, Angelian y JWoww en animadoras. Mike se inspira en Rocky para entrenar para el Campeonato de Cornhole.</desc>
-        <icon src="https://images.pluto.tv/series/63315c2bb5308b0014e2beda/tile_1769124242383.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310230103 +0000" stop="20260311020000 +0000">
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260310221319 +0000" stop="20260311020000 +0000">
         <title>MTV Jerseys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32156,17 +32061,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
         <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260310221351 +0000" stop="20260310224351 +0000">
-        <title>MTV Vergüenza Ajena</title>
-        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
-        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260310224351 +0000" stop="20260310231351 +0000">
-        <title>MTV Vergüenza Ajena</title>
-        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
-        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260310231351 +0000" stop="20260311020000 +0000">
+    <programme channel="63eb9495a8b227000841bf64" start="20260310221351 +0000" stop="20260311020000 +0000">
         <title>MTV Vergüenza ajena</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32176,17 +32071,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260310220538 +0000" stop="20260310223758 +0000">
-        <title>El Reino Infantil: Episodio 80</title>
-        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
-        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260310223758 +0000" stop="20260310230759 +0000">
-        <title>El Reino Infantil: Episodio 81</title>
-        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
-        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260310230759 +0000" stop="20260311020000 +0000">
+    <programme channel="6523f672a6c38300088cb807" start="20260310220538 +0000" stop="20260311020000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6523f672a6c38300088cb807/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32206,12 +32091,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Diego Maradona's Argentina beating Germany FR in the Azteca explained.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7b96446070bd3cdeef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260310220500 +0000" stop="20260310235400 +0000">
-        <title>1986 FIFA World Cup</title>
-        <desc>¡FIFA+ te trae lo mejor de la Copa Mundial de la FIFA 2022 y la Copa Mundial Femenina de la FIFA 2023! Partidos en vivo, documentales y mucho más sobre tus futbolistas favoritos y sobre el fútbol de todas las partes del planeta.</desc>
-        <icon src="https://images.pluto.tv/series/67b36b7996446070bd3cdc70/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260310235400 +0000" stop="20260311020000 +0000">
+    <programme channel="660c29f80cd4630008f1547c" start="20260310220500 +0000" stop="20260311020000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32221,17 +32101,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
         <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e22624e1d000087a111c" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Gaming Central: Shooters</title>
-        <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
-        <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6618e22624e1d000087a111c" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Gaming Central: Shooters</title>
-        <desc>Gaming Central: Shooters es el canal con más de 500 horas de todas las competiciones de Free Fireen América Latina, con países como Colombia, México y Argentina, comentadas en español por expertos y talentos representativos de la Generación Z.</desc>
-        <icon src="https://images.pluto.tv/series/68babfd0665c2112367238f5/tile-1757080356881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6618e22624e1d000087a111c" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="6618e22624e1d000087a111c" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>Gaming Central: Shooters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e22624e1d000087a111c/featuredImage_1747991045799.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32241,17 +32111,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
         <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a440c8ea5560008a4db8a" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Gaming Central: League of Legends</title>
-        <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
-        <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="663a440c8ea5560008a4db8a" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Gaming Central: League of Legends</title>
-        <desc>Gaming Central: League of Legends es el único lugar donde puedes encontrar todas las competiciones de LOL en español en un solo canal. Más de 5,000 horas de la competición de eSports más seguida del planeta.</desc>
-        <icon src="https://images.pluto.tv/series/68bac010b3900870ec28cb24/tile-1757080406029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="663a440c8ea5560008a4db8a" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="663a440c8ea5560008a4db8a" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>Gaming Central: League of Legends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/663a440c8ea5560008a4db8a/featuredImage_1747990939208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32261,12 +32121,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20260310230000 +0000" stop="20260311000000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20260311000000 +0000" stop="20260311020000 +0000">
+    <programme channel="66c45c0de7f5e80008b82005" start="20260310230000 +0000" stop="20260311020000 +0000">
         <title>CNN Headlines</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/featuredImage_1745489269886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32276,17 +32131,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
         <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66fd36ca9269330008412b6c" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Gol Classics</title>
-        <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
-        <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66fd36ca9269330008412b6c" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Gol Classics</title>
-        <desc>Un canal de FÚTBOL donde puedes revivir los mejores partidos del fútbol español. La rivalidad entre Messi y Cristiano, el Madrid de Mourinho contra el Barça de Guardiola y las mejores jugadas y goles de los grandes jugadores que pasaron por nuestro fútbol</desc>
-        <icon src="https://images.pluto.tv/series/68babf8c6523408b14ac9416/tile-1757080335886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66fd36ca9269330008412b6c" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="66fd36ca9269330008412b6c" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>Gol Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66fd36ca9269330008412b6c/featuredImage_1747991119439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32306,17 +32151,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
         <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="67517fae5534bb0008187997" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>Actualidad 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32326,17 +32161,7 @@ Estrella Invitada: Trevor Eve.</desc>
         <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
         <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67a09f885434e30008e0afd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260310233000 +0000" stop="20260311020000 +0000">
+    <programme channel="67921b873de7c8cf94233f52" start="20260310223000 +0000" stop="20260311020000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

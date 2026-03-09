@@ -29853,10 +29853,10 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310220000 +0000">
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="650aff3398020f00086380cd" start="20260310180000 +0000" stop="20260310183000 +0000">
         <title>Le Figaro TV</title>
@@ -30033,7 +30033,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Jane apprend qu'en termes d'art, l'imitation est la forme de flatterie la plus lucrative.</desc>
         <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1768263841586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260310220923 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260310220923 +0000" stop="20260310223346 +0000">
+        <title>Daria</title>
+        <desc>Quinn se rend compte qu'elle a besoin d'un copain stable et sa quête pourrait prendre des années.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1768263841586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260310223346 +0000" stop="20260310225810 +0000">
+        <title>Daria</title>
+        <desc>La tante de Daria est de passage, comme si sa famille n'était pas assez dysfonctionnelle.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1768263841586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260310225810 +0000" stop="20260310232238 +0000">
+        <title>Daria</title>
+        <desc>Daria est en lice pour remporter un prestigieux prix. Sera-t-elle forcée de faire preuve d'enthousiasme ?</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1768263841586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260310232238 +0000" stop="20260311020000 +0000">
         <title>Séries Girls Club by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/featuredImage_1772442205837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30043,7 +30058,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>L'un des otages en sait manifestement plus sur la situation, mais les otages semblent se faire confiance les uns aux autres. Les voleurs reçoivent une visite surprise, et Susan est confrontée à un dilemme épineux.</desc>
         <icon src="https://images.pluto.tv/series/6360bdcf9debef0013af45a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260310223156 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260310223156 +0000" stop="20260310232256 +0000">
+        <title>The Day: Episode 5</title>
+        <desc>Vos est contrainte de se retirer de l'affaire contre son gré, mais la liaison ne cesse de la harceler. Elle est convaincue que quelque chose ne tourne pas rond. Elle fait une découverte surprenante qui jette une nouvelle lumière sur les choses.</desc>
+        <icon src="https://images.pluto.tv/series/6360bdcf9debef0013af45a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260310232256 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Polar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30063,7 +30083,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Diane, l'ancienne petite amie de Trivette, réapparaît. Elle demande au Ranger de bien vouloir se porter au secours de son frère...</desc>
         <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa749ac7f3200078adb40" start="20260310222500 +0000" stop="20260311020000 +0000">
+    <programme channel="60afa749ac7f3200078adb40" start="20260310222500 +0000" stop="20260310231800 +0000">
+        <title>Walker Texas Ranger: La légende d'Ours Rapide</title>
+        <desc>Walker se porte au secours d'un jeune indien navajo, injustement accusé d'un meurtre par un agent du FBI...</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20260310231800 +0000" stop="20260311020000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30073,7 +30098,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un nouveau sauveteur aide Mitch et l’équipe à arrêter les activités criminelles d’un gang, tandis que CJ tombe sous le charme d’un magicien, qu’elle sauve d’un tour sous-marin raté.</desc>
         <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1768081148286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afaa535580be0007ac9ee4" start="20260310223100 +0000" stop="20260311020000 +0000">
+    <programme channel="60afaa535580be0007ac9ee4" start="20260310223100 +0000" stop="20260310231800 +0000">
+        <title>Alerte à Malibu: Les enfants de Neptune</title>
+        <desc>Les sauveteurs de la plage organisent les Olympiades de Malibu et se rapprochent de deux athlètes abandonnés par leurs parents.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1768081148286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260310231800 +0000" stop="20260311020000 +0000">
         <title>Alerte à Malibu</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30083,7 +30113,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le mariage d'Hannah approche, et tous nos personnages font leurs derniers choix.</desc>
         <icon src="https://images.pluto.tv/series/66a241109700930013ed02fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35a74c63c3c0008df6a90" start="20260310224049 +0000" stop="20260311020000 +0000">
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260310224049 +0000" stop="20260310234005 +0000">
+        <title>Affaires non classées</title>
+        <desc>Le corps mutilé d’un jeune garçon est repêché dans la rivière.</desc>
+        <icon src="https://images.pluto.tv/series/686fca3b11ea7bc40a4820af/tile_1768266721520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260310234005 +0000" stop="20260311020000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/featuredImage_1771579997925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30093,7 +30128,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Manny n'a que de vagues souvenirs de la fête de Peter.</desc>
         <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e71322f5f180007001dde" start="20260310220600 +0000" stop="20260311020000 +0000">
+    <programme channel="611e71322f5f180007001dde" start="20260310220600 +0000" stop="20260310223100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Retrouvailles</title>
+        <desc>Paige a déjà planifié toute sa vie.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260310223100 +0000" stop="20260310225600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Liberty n'a plus envie de rire</title>
+        <desc>JT a une nouvelle petite amie, Liberty, qui est présidente du conseil des élèves. Alors pourquoi ce complexe d’infériorité ?</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260310225600 +0000" stop="20260310232100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Premier concert</title>
+        <desc>Après toutes les folies de l'année dernière, Craig n'a qu'un seul souhait : fini les drames.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260310232100 +0000" stop="20260311020000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e71322f5f180007001dde/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30103,7 +30153,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
         <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245ccd0c6cdb800074632e4" start="20260310220200 +0000" stop="20260311020000 +0000">
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260310220200 +0000" stop="20260310225900 +0000">
+        <title>MacGyver: Le programme mentor</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260310225900 +0000" stop="20260310235600 +0000">
+        <title>MacGyver: Le compromis</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260310235600 +0000" stop="20260311020000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30113,7 +30173,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Nos aventuriers font route vers Arriopa, bien décidés à interrompre l’évènement dont tout le monde parle.</desc>
         <icon src="https://images.pluto.tv/series/6357f62cf64f1900131d9efa/tile_1768197769408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625ec7a1c853fd00073b38fd" start="20260310220922 +0000" stop="20260311020000 +0000">
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260310220922 +0000" stop="20260310225822 +0000">
+        <title>Vagrant Queen: Arriopa City</title>
+        <desc>Pendant que Lazaro prépare sa grande fête d’inauguration, Élida, Amaé et Isaac arrivent à Arriopa City. Ils se font alors attaquer par Terex et ses hommes car Élida n’a pas fini le boulot que Terex lui avait confié à bord du Sunshine Express.</desc>
+        <icon src="https://images.pluto.tv/series/6357f62cf64f1900131d9efa/tile_1768197769408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260310225822 +0000" stop="20260310234722 +0000">
+        <title>Vagrant Queen: Dernier voyage</title>
+        <desc>Arriopa City est sur le point d’être renversée, les différents chefs de planètes se sont donnés la mort</desc>
+        <icon src="https://images.pluto.tv/series/6357f62cf64f1900131d9efa/tile_1768197769408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260310234722 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Héroïnes Fantastiques</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/featuredImage_1772442122118.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30123,7 +30193,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le fossé se creuse entre Cynthia et Matteo : pas fière que son mec ait un job de vendeur de beignets, Cynthia profite d’un casting sur la plage pour inciter Matteo à choisir un métier plus prestigieux…</desc>
         <icon src="https://images.pluto.tv/series/6332aeea48fe5f0013fb29a8/tile_1768200440919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3dd1c2f29ce0007e18596" start="20260310220400 +0000" stop="20260311020000 +0000">
+    <programme channel="62f3dd1c2f29ce0007e18596" start="20260310220400 +0000" stop="20260310223200 +0000">
+        <title>Cœur océan: Episode 9</title>
+        <desc>Daphné retrouve Alexis qui revient de l’hôpital. Très touchée par son accident de santé, elle prend conscience de la réalité de ses sentiments pour Alexis. Elle décide de le présenter à ses amis.</desc>
+        <icon src="https://images.pluto.tv/series/6332aeea48fe5f0013fb29a8/tile_1768200440919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3dd1c2f29ce0007e18596" start="20260310223200 +0000" stop="20260310225900 +0000">
+        <title>Cœur océan: Episode 10</title>
+        <desc>Le flirt de Matteo et Eléonore est en train de se transformer en une vraie relation. Matteo comprend qu’entre Eléonore et Cynthia, il va devoir faire un choix. Cynthia sent bien que les choses vont mal dans son couple.</desc>
+        <icon src="https://images.pluto.tv/series/6332aeea48fe5f0013fb29a8/tile_1768200440919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3dd1c2f29ce0007e18596" start="20260310225900 +0000" stop="20260310232800 +0000">
+        <title>Cœur océan: Episode 11</title>
+        <desc>Daphné s’épanouit dans sa relation avec Alexis. Mais elle retombe sur Melvil, le mystérieux mec du mariage… Saisie par son charisme, elle passe la journée avec lui, sans savoir qu’il est le cousin de Lena, ni qu’il se traîne un passé de délinquant.</desc>
+        <icon src="https://images.pluto.tv/series/6332aeea48fe5f0013fb29a8/tile_1768200440919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3dd1c2f29ce0007e18596" start="20260310232800 +0000" stop="20260311020000 +0000">
         <title>Coeur Océan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30133,7 +30218,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Sami rencontre la petite amie de son ami de toujours Cem. Elle est danseuse de hip hop et travaille pour une maison de disque soupçonnée de faire du trafic de drogue.</desc>
         <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1768259878741.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e4bc08f5ec000744f552" start="20260310224600 +0000" stop="20260311020000 +0000">
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260310224600 +0000" stop="20260310233700 +0000">
+        <title>Alerte Cobra un duo explosif: Un sou est un sou</title>
+        <desc>Ben et Sami font l'objet d'une inspection de la Cour Des Comptes qui les soupçonne de gaspiller l'argent public au cours de leurs enquêtes. Monsieur Tietze, qui est chargé de l'inspection a décidé de ne rien leur passer.</desc>
+        <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1768259878741.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260310233700 +0000" stop="20260311020000 +0000">
         <title>Alerte Cobra</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30143,7 +30233,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>En voiture /  A la maison (1) /  Au bistrot (2)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20260310221222 +0000" stop="20260311020000 +0000">
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260310221222 +0000" stop="20260310223222 +0000">
+        <title>Un Gars Une Fille: Secouristes (1) /  Secouristes (2) /  A l'Ile Sainte Anne (3)</title>
+        <desc>Secouristes (1) /  Secouristes (2) /  A l'Ile Sainte Anne (3)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260310223222 +0000" stop="20260310225422 +0000">
+        <title>Un Gars Une Fille: Au supermarché /  Au resto avec Isabelle /  Soirée télévision</title>
+        <desc>Au supermarché /  Au resto avec Isabelle /  Soirée télévision</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260310225422 +0000" stop="20260310231522 +0000">
+        <title>Un Gars Une Fille: Au petit déjeuner (2) /  Auto stop (2) /  Au lit (1)</title>
+        <desc>Au petit déjeuner (2) /  Auto stop (2) /  Au lit (1)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260310231522 +0000" stop="20260311020000 +0000">
         <title>Un gars, une fille</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30153,7 +30258,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
         <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="6304f2e2eb10450007298023" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Un Village Français</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f2e2eb10450007298023/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30163,7 +30278,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Lorsque Chegwidden apprend que la bague de fiançailles de Meredith pourrait contenir un diamant issu du marché noir, il est déterminé à en retracer l'origine. Son enquête le conduit inopinément aux méthodes de courtage d'un lieutenant de la marine.</desc>
         <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ccd26060eb870008db95fc" start="20260310223755 +0000" stop="20260311020000 +0000">
+    <programme channel="65ccd26060eb870008db95fc" start="20260310223755 +0000" stop="20260310232554 +0000">
+        <title>Jag: Good Intentions</title>
+        <desc>Mac defends a petty officer and former alcoholic accused of a brutal murder after a drinking binge which renders him useless in remembering details that could help him. Roberts is entangled in the case of a Navy Commander accused of embezzling funds.</desc>
+        <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ccd26060eb870008db95fc" start="20260310232554 +0000" stop="20260311020000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30173,7 +30293,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Sam, Carla et Norm prennent la mer dans le voilier de Robin Colcord et ne tardent pas à découvrir qu'il y a une bombe à bord.</desc>
         <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce14060eb870008dbd003" start="20260310221609 +0000" stop="20260311020000 +0000">
+    <programme channel="65cce14060eb870008dbd003" start="20260310221609 +0000" stop="20260310224109 +0000">
+        <title>Cheers</title>
+        <desc>Frasier enlève son propre fils pour l'empêcher d'être circoncis selon la tradition juive.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260310224109 +0000" stop="20260310230704 +0000">
+        <title>Cheers</title>
+        <desc>Rebecca découvre qu'elle n'est pas la seule femme dans la vie amoureuse de Robin.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260310230704 +0000" stop="20260311020000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce14060eb870008dbd003/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30183,7 +30313,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un magnat de l'entreprise de construction est maintenant convaincu qu'il est le roi Arthur.</desc>
         <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1773050958204.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce23bdc10a400080645ad" start="20260310224140 +0000" stop="20260311020000 +0000">
+    <programme channel="65cce23bdc10a400080645ad" start="20260310224140 +0000" stop="20260310233733 +0000">
+        <title>Highway to Heaven</title>
+        <desc>Jonathan et Mark ont été embauchés pour s'occuper des enfants d'une star de cinéma.</desc>
+        <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1773050958204.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce23bdc10a400080645ad" start="20260310233733 +0000" stop="20260311020000 +0000">
         <title>Les Routes du Paradis</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/featuredImage_1756898911225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30193,7 +30328,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Alors que Ninon cherche une nouvelle piste, Céline réussit là où tous avaient échoué ! De son côté, Patricia prouve qu’elle sait parfaitement mener sa barque…</desc>
         <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1768263486669.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20260310221759 +0000" stop="20260311020000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20260310221759 +0000" stop="20260310224447 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 86</title>
+        <desc>Alors que la famille Frémont est en pleine crise, un curieux rapprochement sentimental s’opère au Mistral. De son côté, Roland finira-t-il par se confier à un ami ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1768263486669.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260310224447 +0000" stop="20260310231143 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 87</title>
+        <desc>Alors que Franck craint d’avoir un problème familial, Rachel joue les entremetteuses… De son côté, Ninon découvrira-t-elle enfin le sort de son père ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1768263486669.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260310231143 +0000" stop="20260311020000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30203,7 +30348,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le FMI infiltre un site d'entraînement secret dans le cadre d'un stratagème visant à empêcher un régime hostile de tuer des millions d'Américains par la guerre bactériologique.</desc>
         <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b21ffc3a46000857fe75" start="20260310223351 +0000" stop="20260311020000 +0000">
+    <programme channel="6671b21ffc3a46000857fe75" start="20260310223351 +0000" stop="20260310233058 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Le FMI entre en action lorsqu'il apprend qu'une puissance étrangère envisage d'assassiner le professeur Napolsky, un scientifique qui a fait défection vers l'Occident.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20260310233058 +0000" stop="20260311020000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30223,7 +30373,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Cécile s'enfonce de plus en plus dans un cauchemar.</desc>
         <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20260310221123 +0000" stop="20260311020000 +0000">
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260310221123 +0000" stop="20260310223614 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Eliott est toujours hanté par le souvenir de son père. Quant à Bérénice, elle ne se souvient plus de rien.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260310223614 +0000" stop="20260310230052 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Tandis que Cécile découvre l'envers du décor, Lucille assiste au procès d'Eliott…</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260310230052 +0000" stop="20260311020000 +0000">
         <title>Un Si Grand Soleil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/featuredImage_1749650858534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30233,7 +30393,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Murphy, Warren, Vasquez et Addy se retrouvent dans un casino tandis que 10K et Doc sont capturés.</desc>
         <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b227b446762a000846c208" start="20260310223825 +0000" stop="20260311020000 +0000">
+    <programme channel="66b227b446762a000846c208" start="20260310223825 +0000" stop="20260310232608 +0000">
+        <title>Z Nation</title>
+        <desc>Le groupe se retrouve mêlé à la politique d'entreprise dans un hôtel envahi par des survivants en col blanc.</desc>
+        <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260310232608 +0000" stop="20260311020000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b227b446762a000846c208/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30243,7 +30408,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>En ses premiers jours de travaux d'intérêt général, le réveil est douloureux pour Rudy. Il doit apprendre à courir, à crier, et parfois... à tuer. Pour lui, c'est vraiment le cadet de ses soucis, le plus urgent étant de préserver son secret.</desc>
         <icon src="https://images.pluto.tv/series/611e12fa4395a400138acf96/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b498bc14a2bb00086965bc" start="20260310225044 +0000" stop="20260311020000 +0000">
+    <programme channel="66b498bc14a2bb00086965bc" start="20260310225044 +0000" stop="20260310234544 +0000">
+        <title>Misfits: Saison 3: Dans la peau d'une autre</title>
+        <desc>Lassé de la tournure que prend son existence et toujours interdit de compétition, Curtis décide d'utiliser son nouveau pouvoir pour concourir sous les traits d'une femme. Les choses se compliquent quand il tombe amoureux d'Emma, une des autres athlètes.</desc>
+        <icon src="https://images.pluto.tv/series/611e12fa4395a400138acf96/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260310234544 +0000" stop="20260311020000 +0000">
         <title>Pluto TV 2010's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30253,7 +30423,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Rien de mieux qu'une bonne histoire de fantômes pour vous garder éveillé la nuit ! Fais-moi peur !</desc>
         <icon src="https://images.pluto.tv/series/633c03dbd6ee50001373f8fb/tile_1768225883986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b4990746762a00084c2f78" start="20260310220837 +0000" stop="20260311020000 +0000">
+    <programme channel="66b4990746762a00084c2f78" start="20260310220837 +0000" stop="20260310223737 +0000">
+        <title>Fais-moi peur !: L'histoire de la bicyclette rouge</title>
+        <desc>Rien de mieux qu'une bonne histoire de fantômes pour vous garder éveillé la nuit ! Fais-moi peur !</desc>
+        <icon src="https://images.pluto.tv/series/633c03dbd6ee50001373f8fb/tile_1768225883986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260310223737 +0000" stop="20260310230637 +0000">
+        <title>Fais-moi peur !: L'histoire de l'assistant du magicien</title>
+        <desc>Rien de mieux qu'une bonne histoire de fantômes pour vous garder éveillé la nuit ! Fais-moi peur !</desc>
+        <icon src="https://images.pluto.tv/series/633c03dbd6ee50001373f8fb/tile_1768225883986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260310230637 +0000" stop="20260311020000 +0000">
         <title>Pluto TV 90's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b4990746762a00084c2f78/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30263,7 +30443,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Une fusillade dans un centre commercial entraîne la SRU dans une situation impliquant un gang, des représailles et une fille qui essaie de s'en sortir malgré les difficultés.</desc>
         <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71ff86b63480008cf15c5" start="20260310220525 +0000" stop="20260311020000 +0000">
+    <programme channel="66d71ff86b63480008cf15c5" start="20260310220525 +0000" stop="20260310225249 +0000">
+        <title>Flashpoint</title>
+        <desc>La SRU réagit aux coups de feu tirés dans une maison où ils trouvent un avocat bien établi abattu; le reste de la famille protège le tireur.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260310225249 +0000" stop="20260310233955 +0000">
+        <title>Flashpoint</title>
+        <desc>Ed s'insère dans un incident au palais de justice lorsqu'un détenu en liberté conditionnelle demande, alors qu'il détient un otage sous la menace d'une arme, de voir le procureur qui l'a envoyé en prison.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260310233955 +0000" stop="20260311020000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30273,7 +30463,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Après la disparition d'une fillette, la famille s'interroge sur les méthodes de Danny pour la ramener. Jamie décroche son diplôme de l'académie de police et commence sa carrière de policier dans ce premier épisode.</desc>
         <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55a9a747bfa0008521859" start="20260310222036 +0000" stop="20260311020000 +0000">
+    <programme channel="66f55a9a747bfa0008521859" start="20260310222036 +0000" stop="20260310230757 +0000">
+        <title>Blue Bloods</title>
+        <desc>Un bon samaritain lutte contre un criminel qui terrorise le métro, les Reagan pèse le pour et le contre du vigilantisme.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260310230757 +0000" stop="20260311020000 +0000">
         <title>Blue Bloods</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30283,7 +30478,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le capitaine Kirk devient de plus en plus capricieux et ordonne à l'Enterprise d'entrer dans l'espace romulien... où le vaisseau est capturé par un magnifique commandant romulien.</desc>
         <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260310225248 +0000" stop="20260311020000 +0000">
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260310225248 +0000" stop="20260310235014 +0000">
+        <title>Star Trek</title>
+        <desc>Un groupe d'enfants est contrôlé par une force maléfique.</desc>
+        <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260310235014 +0000" stop="20260311020000 +0000">
         <title>Star Trek: The Original Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/featuredImage_1752571354680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30293,7 +30493,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Voulant à tout prix continuer ses études au lycée auprès de son meilleur ami Greg, Chris tente par tous les moyens d'intégrer la Bronx Science Academy.</desc>
         <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b4a21a5ca760802d25fd" start="20260310221902 +0000" stop="20260311020000 +0000">
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260310221902 +0000" stop="20260310224149 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Chris débarque au lycée de Tattaglia en pensant être à nouveau le seul noir.</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260310224149 +0000" stop="20260310230446 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Chris s'inscrit au cours d'économie domestique pour épater les filles avec ses gâteaux faits maison. Seulement, il se retrouve à faire équipe avec un élève androgyne...</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260310230446 +0000" stop="20260311020000 +0000">
         <title>Tout le monde déteste Chris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/featuredImage_1747394750365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30303,7 +30513,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Abel Perello, figure du grand banditisme parvient à s'échapper de prison grâce à l'aide de ses complices. Après son évasion, il fait organiser celle d'un autre comparse.</desc>
         <icon src="https://images.pluto.tv/series/61483273bce9e900135b5c10/tile_1768192560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="684bf01df7d8b74b625b7dd1" start="20260310223112 +0000" stop="20260311020000 +0000">
+    <programme channel="684bf01df7d8b74b625b7dd1" start="20260310223112 +0000" stop="20260311000712 +0000">
+        <title>Un flic: Bruit numérique</title>
+        <desc>Schneider envoie Alex en pseudo otage dans une banque, mais il ignore que c’est la future mère de son enfant qui risque sa peau face à une bande de braqueurs branquignols et déterminés...</desc>
+        <icon src="https://images.pluto.tv/series/61483273bce9e900135b5c10/tile_1768192560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="684bf01df7d8b74b625b7dd1" start="20260311000712 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Brigade Criminelle</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/featuredImage_1753890939940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30313,7 +30528,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Flynn rejoint l'équipe pour trouver l'Œil de Râ, un artefact crucial contre le Mal, après un enlèvement inattendu.</desc>
         <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1768265282150.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d292d554c61bfff220a635" start="20260310222302 +0000" stop="20260311020000 +0000">
+    <programme channel="68d292d554c61bfff220a635" start="20260310222302 +0000" stop="20260310230830 +0000">
+        <title>The Outpost</title>
+        <desc>Gwenn fait arrêter et emprisonner Zed. Talon obtient sa libération en le prenant sous sa responsabilité et en renvoyant son démon de l'autre côté du portail. Ils partent ensemble à la recherche du restant de la clef de Talon.</desc>
+        <icon src="https://images.pluto.tv/series/684957d8590c735140387836/tile_1768266362623.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d292d554c61bfff220a635" start="20260310230830 +0000" stop="20260311020000 +0000">
         <title>Flynn Carson et The Outpost</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d292d554c61bfff220a635/featuredImage_1761761926676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30323,7 +30543,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un musicien perd l'usage de ses mains. Nina cherche une solution alternative pour le sauver.</desc>
         <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20260310220952 +0000" stop="20260311020000 +0000">
+    <programme channel="692ec6d82329c10c5166f436" start="20260310220952 +0000" stop="20260310231106 +0000">
+        <title>NINA</title>
+        <desc>Bergman qui a pris les choses en main fait appel à Lacombe un éminent chirurgien canadien pour opérer Costa. Mais Lacombe est pris de tremblements au moment de démarrer l’opération : se pourrait-il qu’il soit un imposteur ?</desc>
+        <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec6d82329c10c5166f436" start="20260310231106 +0000" stop="20260311020000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/featuredImage_1771598181775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30333,7 +30558,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Pour venger son frère aîné, tué dans un accident, un jeune pilote amateur intrépide plonge dans l’univers impitoyable des courses clandestines de voitures.</desc>
         <icon src="https://images.pluto.tv/series/6176ae3f829284001a9451d4/tile_1768348082988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ece1a89d79800072510e6" start="20260310224641 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ece1a89d79800072510e6" start="20260310224641 +0000" stop="20260311002641 +0000">
+        <title>2012: Doomsday</title>
+        <desc>Dans ce film catastrophe, quatre inconnus se rendent dans un temple mexicain le 21 décembre 2012. Pour les Mayas, c’est le dernier jour d’un calendrier millénaire. Pour la NASA, c’est une inversion polaire cataclysmique.</desc>
+        <icon src="https://images.pluto.tv/series/616e63074c83ec001a8d7d49/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ece1a89d79800072510e6" start="20260311002641 +0000" stop="20260311020000 +0000">
         <title>The Asylum</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30343,7 +30573,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>The Fountain raconte le combat à travers les âges d'un homme pour sauver la femme qu'il aime.</desc>
         <icon src="https://images.pluto.tv/series/6062dc37a224c9001bb82930/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed0f17564a300082b676a" start="20260310220400 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed0f17564a300082b676a" start="20260310220400 +0000" stop="20260310235700 +0000">
+        <title>Ghost Town</title>
+        <desc>La Ville fantôme est une comédie romantique pleine d'esprit(s) qui raconte l'histoire de Bertram Pincus, un dentiste irritable de Manhattan qui développe la capacité malencontreuse de voir les morts.</desc>
+        <icon src="https://images.pluto.tv/series/64d0a5e8c6c2a60013998830/tile_1768511835609.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260310235700 +0000" stop="20260311020000 +0000">
         <title>Ciné au féminin by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/featuredImage_1772442347546.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30353,7 +30588,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Julia Tate, une propriétaire terrienne, sauve Henry Moon, un voleur de chevaux, de la pendaison en l'épousant. En contrepartie, celui-ci doit l'aider à exploiter une mine d'or.</desc>
         <icon src="https://images.pluto.tv/series/661ccc3b0fb7c10013c67472/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed168f72fcd0007e56269" start="20260310223822 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260310223822 +0000" stop="20260311003522 +0000">
+        <title>Deadly Blessing</title>
+        <desc>« La Ferme de la terreur » est un film américain réalisé par Wes Craven sorti en 1981.</desc>
+        <icon src="https://images.pluto.tv/series/60869202dffcc4001a9a4dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260311003522 +0000" stop="20260311020000 +0000">
         <title>Ciné Rétro by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/featuredImage_1751272859624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30373,7 +30613,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Sandra et Isidro Nuno sont confrontés à des entités de plus en plus sombres qui s'attaquent à leurs deux filles, dans leur maison de Chicago. Désespérés, les Nuno font appel à un "guerrier spirituel" pour combattre les démons qui se cachent dans l'ombre.</desc>
         <icon src="https://images.pluto.tv/series/5fd891b9ceee3a001a16774d/tile_1767940205017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed9461b35690007a0bc3a" start="20260310224145 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed9461b35690007a0bc3a" start="20260310224145 +0000" stop="20260310233021 +0000">
+        <title>Hantise: Rêves et cauchemars</title>
+        <desc>Le rêve de Dana Walters d'ouvrir un magasin de costumes est interrompu lorsqu'elle découvre que l'immeuble qu'elle vient d'acheter est habité par des esprits. Lorsque la hantise devient dangereuse, elle fait appel à un médium spirite local pour enquêter.</desc>
+        <icon src="https://images.pluto.tv/series/5fd891b9ceee3a001a16774d/tile_1767940205017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed9461b35690007a0bc3a" start="20260310233021 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30383,7 +30628,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>En Californie, l’agent de police George Gwaltney découvre le corps de Robin Bishop, 23 ans, assassinée près de sa voiture sur une route isolée. Gwaltney déclare qu’il est innocent et il est acquitté à deux reprises mais.</desc>
         <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1767939121216.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edad922b10b000753bc37" start="20260310220800 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8edad922b10b000753bc37" start="20260310220800 +0000" stop="20260310230000 +0000">
+        <title>Dossiers FBI: Un instinct de tueur</title>
+        <desc>À Washington, une enseignante est abattue au moment où elle monte dans sa voiture. Le meurtrier laisse son corps dans le stationnement et s’enfuit avec son véhicule.</desc>
+        <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1767939121216.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edad922b10b000753bc37" start="20260310230000 +0000" stop="20260310235200 +0000">
+        <title>Dossiers FBI: Poursuite internationale</title>
+        <desc>À Langley en Virginie, un homme abat des individus en pleine heure de pointe. Le meurtre d’employés de la CIA met la population des États-Unis en état de choc.</desc>
+        <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1767939121216.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edad922b10b000753bc37" start="20260310235200 +0000" stop="20260311020000 +0000">
         <title>Dossiers FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/featuredImage-1608307461254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30393,7 +30648,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Une jolie auberge du Midwest américain est le théâtre d’un sordide double-homicide. Deux hommes sont morts et un coffre-fort rempli de billets de banque a disparu.</desc>
         <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edb6df1ebb800072edf10" start="20260310221100 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260310221100 +0000" stop="20260310230500 +0000">
+        <title>Les Nouveaux Detectives: Les visages de la tragédie</title>
+        <desc>Les artistes légistes, qu’ils soient sculpteurs ou dessinateurs, empêchent certaines victimes de sombrer dans l’oubli. À l’aide d’argile et d’une connaissance intime de l’anatomie humaine, ces artistes redonnent un visage à des ossements.</desc>
+        <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260310230500 +0000" stop="20260311020000 +0000">
         <title>Les Nouveaux Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30403,7 +30663,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>À la recherche d’argent pour se procurer de la drogue, deux amoureux décident de passer à l’acte pendant les fêtes de fin d’année 2004. Ce qui ne devait être qu’un simple vol se transforme en un véritable carnage.</desc>
         <icon src="https://images.pluto.tv/series/682192989f0436e1ab02b67b/tile_1768266004063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f914f4b36d67d0007a91a04" start="20260310224016 +0000" stop="20260311020000 +0000">
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260310224016 +0000" stop="20260310233439 +0000">
+        <title>Alliance meurtrière</title>
+        <desc>En 1991, Phillip et Nancy Garrido enlèvent Jaycee Dugard, âgée de 11 ans, et la retiennent comme esclave sexuelle. Leur univers détraqué s’effondre en 2009 lorsque les enquêteurs finissent par se poser des questions sur le couple.</desc>
+        <icon src="https://images.pluto.tv/series/682192989f0436e1ab02b67b/tile_1768266004063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260310233439 +0000" stop="20260311020000 +0000">
         <title>True Crime by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30413,7 +30678,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Laly est maintenant persuadée d'être enceinte et décide de faire un test de grossesse. Alors que Christophe confie à José qu'Adeline n'est pas amoureuse de lui, Hélène découvre la jeune fille en larmes dans leur chambre.</desc>
         <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20260310221600 +0000" stop="20260311020000 +0000">
+    <programme channel="604f8de01b479400078fb1e7" start="20260310221600 +0000" stop="20260310224400 +0000">
+        <title>Hélène et les garçons: Lendemain difficile</title>
+        <desc>Hélène est partie rejoindre Linda qui poursuit sa convalescence à la campagne. Laly et Nathalie se disputent violemment à propos du bébé de Linda. Nathalie quitte la cafèt' pour aller au garage où elle aperçoit Sébastien seul et endormi.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260310224400 +0000" stop="20260310231100 +0000">
+        <title>Hélène et les garçons: Répétition ratée</title>
+        <desc>Sébastien est parti faire du shopping avec Laly pour le futur bébé de Linda et José est occupé à repeindre la cuisine de Bénédicte. Nicolas se retrouve donc seul avec Christophe au garage pour répéter.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260310231100 +0000" stop="20260311020000 +0000">
         <title>Hélène et les garçons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30423,7 +30698,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>José a surpris de nombreux appels téléphoniques d'un certain Renato, pour Bénédicte. Il est de plus en plus inquiet et aperçoit même le jeune homme en train d'embrasser sa petite amie.</desc>
         <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1768071995684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20260310222400 +0000" stop="20260311020000 +0000">
+    <programme channel="60549c238c3f21000753d3e0" start="20260310222400 +0000" stop="20260310225000 +0000">
+        <title>Le miracle de l'amour: Ménage</title>
+        <desc>Les garçons ont décidé de faire une partie de billard dont le perdant sera de corvée de ménage. C'est José qui perd ! Alors qu'il rechigne à s'exécuter, Nathalie vient annoncer à Hélène qu'elle quitte Christophe car elle en aime un autre...</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1768071995684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260310225000 +0000" stop="20260310231400 +0000">
+        <title>Le miracle de l'amour: La nouvelle</title>
+        <desc>Alors que Nicolas et Sébastien ont du mal à accepter le départ de Christophe, Hélène annonce à ses amis que sa grand-mère est de nouveau souffrante et qu'elle doit retourner en Australie. Nicolas décide de l'accompagner...</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1768071995684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260310231400 +0000" stop="20260311020000 +0000">
         <title>Le miracle de l'amour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30433,7 +30718,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>La radio révèle l'existence d'un détraqué égorgeant des jeunes femmes. Soudain, on sonne à la porte des filles et Claire se trouve face a un homme couvert de sang. Luna l'assomme, mais l'inconnu n'est que le nouveau petit ami de Sabine...</desc>
         <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1768098518306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20260310222351 +0000" stop="20260311020000 +0000">
+    <programme channel="60549d97cd7b090007c73314" start="20260310222351 +0000" stop="20260310224921 +0000">
+        <title>Les filles d'à côté: L'insulte</title>
+        <desc>Charly raconte à Daniel qu'il a passé la soirée avec Luna et celle-ci confie aux filles qu'il est un véritable pot de colle. Quand elle le croise à nouveau dans l'ascenseur, elle craque et l'insulte. Mais prise de remords elle décide de s'excuser...</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1768098518306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260310224921 +0000" stop="20260310231721 +0000">
+        <title>Les filles d'à côté: Une bonne journée</title>
+        <desc>Le croyant malade, Daniel laisse de l'argent à Charly pour se soigner, mais celui-ci le perd aux courses. Confiant alors son désespoir à Gérard, il lui emprunte de l'argent qu'il perd à nouveau. Charly rencontre alors Vincent...</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1768098518306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260310231721 +0000" stop="20260311020000 +0000">
         <title>Les filles d'à côté</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549d97cd7b090007c73314/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30453,7 +30748,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Veuve depuis peu, une femme invite le meilleur ami de son mari, anxieux, à vivre avec elle et ses deux enfants. Il remet progressivement de l'ordre dans sa vie tout en aidant la famille à surmonter leur perte.</desc>
         <icon src="https://images.pluto.tv/series/64d0b412a5aa6e00138541c6/tile_1768442824415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60812fc8539963000707d1e1" start="20260310221231 +0000" stop="20260311020000 +0000">
+    <programme channel="60812fc8539963000707d1e1" start="20260310221231 +0000" stop="20260311001506 +0000">
+        <title>Haute Couture</title>
+        <desc>Tilly Dunnage, couturière talentueuse, décide, après de nombreuses années passées en Europe, de retourner dans sa ville natale en Australie pour assouvir sa soif de vengeance.</desc>
+        <icon src="https://images.pluto.tv/series/6698c04614c6d20013938eb0/tile_1768344121700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260311001506 +0000" stop="20260311020000 +0000">
         <title>Ciné Romance by Pluto TV: Regards de femmes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60812fc8539963000707d1e1/featuredImage_1772442286267.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30463,7 +30763,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Virginie apprend par Justine que Luc a cherché à la revoir. Elle est folle de joie, mais Anthony lui annonce que Martial s'est vanté auprès de Luc d'être sorti avec elle et que Luc a très mal réagi.</desc>
         <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1768080961070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20260310222200 +0000" stop="20260311020000 +0000">
+    <programme channel="60afae68a7fc50000737186d" start="20260310222200 +0000" stop="20260310224900 +0000">
+        <title>Les années fac: Un remède miracle</title>
+        <desc>Tandis qu'Anthony réussit à convaincre Luc de téléphoner à Virginie, Serge et Ari déclarent à Annette qu'ils sont tous les deux amoureux d'elle mais qu'ils se contenteront de l'aimer dans l'ombre... Annette est éberluée…</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1768080961070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260310224900 +0000" stop="20260310231500 +0000">
+        <title>Les années fac: Les moteurs grondent</title>
+        <desc>Virginie et Luc vivent à nouveau le parfait amour et les jumelles sont devenues inséparables de Serge et Ari. Seul, Anthony est triste et confie à Luc qu'il a l'impression que Justine lui échappe.</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1768080961070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260310231500 +0000" stop="20260311020000 +0000">
         <title>Les Années fac</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afae68a7fc50000737186d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30473,7 +30783,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Phil a décidé de prendre une journée de repos. Pourtant, lorsque Elise lui demande de la remplacer pour accompagner Gédéon chez le dentiste, et qu'Estelle fait appel à lui pour réparer sa roue, le pauvre Phil a du mal à préserver ses heures de détente...</desc>
         <icon src="https://images.pluto.tv/series/61483264bce9e900135b5968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20260310220500 +0000" stop="20260311020000 +0000">
+    <programme channel="60afb203ec391c00070ea1bf" start="20260310220500 +0000" stop="20260310223000 +0000">
+        <title>Un homme à domicile: Le dealer</title>
+        <desc>Alors qu'Elisabeth est préoccupée par les retards répétés d'Elise, Estelle remarque que la jeune fille porte un superbe bracelet. Elise leur confirme que c'est un cadeau de son ami Renaud.</desc>
+        <icon src="https://images.pluto.tv/series/61483264bce9e900135b5968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260310223000 +0000" stop="20260310225800 +0000">
+        <title>Un homme à domicile: Rollers</title>
+        <desc>Elisabeth est très fâchée contre Estelle qui, en cachette, a acheté des rollers à Gédéon. Alors qu'elle finit par accepter la situation, l'initiation de son fils à ce sport va la conforter dans ses appréhensions.</desc>
+        <icon src="https://images.pluto.tv/series/61483264bce9e900135b5968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260310225800 +0000" stop="20260310232500 +0000">
+        <title>Un homme à domicile: Un dîner imprévu</title>
+        <desc>Monsieur Dufrenoy, venu chercher Elizabeth pour l'emmener à un colloque, entreprend de la courtiser. Cette attitude semble agacer Phil qui, de très mauvaise humeur, s'en prend sans raison à Estelle dès son arrivée.</desc>
+        <icon src="https://images.pluto.tv/series/61483264bce9e900135b5968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260310232500 +0000" stop="20260311020000 +0000">
         <title>Génération Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30483,7 +30808,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>1927 : Itami, un Japonais, tombe amoureux de Cynthia, une Chinoise. La guerre les sépare. Trois ans plus tard : Cynthia, résistante, cherche à tuer Yamamoto, un agent japonais. Itami travaille pour Yamamoto. Le destin les liera tragiquement</desc>
         <icon src="https://images.pluto.tv/series/66a0ee2f40b9bd001389cfd1/tile_1768431972421.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60b4d6c806ad2a00073b3108" start="20260310222032 +0000" stop="20260311020000 +0000">
+    <programme channel="60b4d6c806ad2a00073b3108" start="20260310222032 +0000" stop="20260310235146 +0000">
+        <title>Tucker &amp; Dale fightent le mal</title>
+        <desc>Tucker, Dale, deux braves types venus se ressourcer en forêt, se préparent à passer du bon temps. Mais leurs vacances vont être compromises lorsqu'une bande d'étudiants débarquent dans leur coin de paradis, les prennent pour des serial killers...</desc>
+        <icon src="https://images.pluto.tv/series/6694c1f19322c000133519c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60b4d6c806ad2a00073b3108" start="20260310235146 +0000" stop="20260311020000 +0000">
         <title>Wild Side TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30523,7 +30853,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Oscar Ramirez quitte les montagnes du nord des Philippines avec sa famille pour s’installer à Metro Manila. Devenus proies faciles dans cette ville impitoyable, il devra tout risquer pour protéger les siens.</desc>
         <icon src="https://images.pluto.tv/series/6980851b00cf117a55c86861/tile_1770030363842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e2d000418d00070f7dbc" start="20260310223416 +0000" stop="20260311020000 +0000">
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260310223416 +0000" stop="20260311002332 +0000">
+        <title>Paradox</title>
+        <desc>La fille de 16 ans d'un policier hongkongais coriace disparaît à Pattaya. Il se rend en Thaïlande pour la retrouver et doit faire face à des policiers corrompus.</desc>
+        <icon src="https://images.pluto.tv/series/698300b8c1ada90e81308e0c/tile_1770193081043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260311002332 +0000" stop="20260311020000 +0000">
         <title>Ciné d'Asie by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/featuredImage_1751272759754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30533,7 +30868,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Family Club, la chaîne 100% famille, arrive sur Pluto TV. Aventure, animaux, humour, magie, … : Family Club, c’est plus de 130 heures de films et séries pour toute la famille. Family Club, la chaîne des émotions à vivre en famille..</desc>
         <icon src="https://images.pluto.tv/series/655b2927dd862b0008fff811/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c9260ac0222700089ee62b" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="64c9260ac0222700089ee62b" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Family Club</title>
+        <desc>Family Club, la chaîne 100% famille, arrive sur Pluto TV. Aventure, animaux, humour, magie, … : Family Club, c’est plus de 130 heures de films et séries pour toute la famille. Family Club, la chaîne des émotions à vivre en famille..</desc>
+        <icon src="https://images.pluto.tv/series/655b2927dd862b0008fff811/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c9260ac0222700089ee62b" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Family Club</title>
+        <desc>Family Club, la chaîne 100% famille, arrive sur Pluto TV. Aventure, animaux, humour, magie, … : Family Club, c’est plus de 130 heures de films et séries pour toute la famille. Family Club, la chaîne des émotions à vivre en famille..</desc>
+        <icon src="https://images.pluto.tv/series/655b2927dd862b0008fff811/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c9260ac0222700089ee62b" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Family Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c9260ac0222700089ee62b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30563,7 +30908,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Entre 1983 et 1987, aux alentours de Dombasle, en Meurthe-et-Moselle, Odile Busset et Sandrine Ferry disparaissent. Une troisième, Nelly Haderer, est retrouvée morte.</desc>
         <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1768263483299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a622b5e2370000800f392" start="20260310224433 +0000" stop="20260311020000 +0000">
+    <programme channel="662a622b5e2370000800f392" start="20260310224433 +0000" stop="20260311002113 +0000">
+        <title>Faites Entrer L'Accusé: Mamadou Traoré, le tueur aux mains nues</title>
+        <desc>Entre avril et décembre 1996, à Paris, le Sénégalais Mamadou Traoré, 23 ans, agresse six femmes âgées de 11 à 71 ans, avec pour seule arme ses poings d'acier.</desc>
+        <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1768263483299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a622b5e2370000800f392" start="20260311002113 +0000" stop="20260311020000 +0000">
         <title>Faites entrer l'accusé</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30573,7 +30923,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>La police enquête lorsqu'un homme disparu depuis trois mois est retrouvé décapité et enfermé dans une poubelle.</desc>
         <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd2fca74680008772545" start="20260310220635 +0000" stop="20260311020000 +0000">
+    <programme channel="6683cd2fca74680008772545" start="20260310220635 +0000" stop="20260310225644 +0000">
+        <title>Forensic Investigators</title>
+        <desc>Lorsque le directeur du parc de caravanes, nommé Angelo, a disparu de la petite ville de Millicent, en Australie du Sud, ses amis et sa famille ont appelé toutes les personnes qu'ils connaissaient pour essayer de le retrouver.</desc>
+        <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd2fca74680008772545" start="20260310225644 +0000" stop="20260310234702 +0000">
+        <title>Forensic Investigators</title>
+        <desc>Deux hommes sont retrouvés morts le jour de la Saint-Valentin dans les décombres d'un salon de massage en feu. Les cendres révèlent non seulement le meurtrier, mais aussi une série de meurtres qui s'étend sur dix ans.</desc>
+        <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd2fca74680008772545" start="20260310234702 +0000" stop="20260311020000 +0000">
         <title>Investigation by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd2fca74680008772545/featuredImage_1747399523996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30583,7 +30943,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>30 East Drive, domicile du poltergeist le plus violent du monde. L’équipe fait face à son plus grand défi. En entrant, quelque chose attend, désireux de se révéler.</desc>
         <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d722d31878f200081c2c64" start="20260310223158 +0000" stop="20260311020000 +0000">
+    <programme channel="66d722d31878f200081c2c64" start="20260310223158 +0000" stop="20260310232705 +0000">
+        <title>Most Haunted</title>
+        <desc>L’équipe fait face à leur enquête la plus menaçante à ce jour, marqués mentalement et physiquement à vie. Le poltergeist le plus violent du monde est prêt à se battre. Qui gagnera ?</desc>
+        <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d722d31878f200081c2c64" start="20260310232705 +0000" stop="20260311020000 +0000">
         <title>Most Haunted</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d722d31878f200081c2c64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30593,7 +30958,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un homme d'affaires se lance à la recherche de son frère disparu depuis longtemps.</desc>
         <icon src="https://images.pluto.tv/series/69397fb082bb361505540336/tile_1765378393442.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66e1978babec540008ce41ac" start="20260310222631 +0000" stop="20260311020000 +0000">
+    <programme channel="66e1978babec540008ce41ac" start="20260310222631 +0000" stop="20260311001615 +0000">
+        <title>Mid-Century</title>
+        <desc>Un couple loue une maison de vacances. Ne sachant pas qu'elle est hantée, ils y rencontrent les fantômes d'un architecte et de ses deux femmes.</desc>
+        <icon src="https://images.pluto.tv/series/69397e4ba48fba0b7eccd91e/tile_1765378933740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e1978babec540008ce41ac" start="20260311001615 +0000" stop="20260311020000 +0000">
         <title>Ciné Horreur by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66e1978babec540008ce41ac/featuredImage_1751272165910.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30603,7 +30973,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
         <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Enquêtes Criminelles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30613,7 +30993,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Les jeunes et dynamiques New-Yorkais Alex et Nancy ont trouvé l'endroit parfait pour s'installer et partager un avenir radieux : le bas d'un magnifique vieux duplex. Mais leur nouvelle maison possède une installation surprise.</desc>
         <icon src="https://images.pluto.tv/series/661cc3d0b4334b0013178fde/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b2d976a934282e92d71c" start="20260310225939 +0000" stop="20260311020000 +0000">
+    <programme channel="67b4b2d976a934282e92d71c" start="20260310225939 +0000" stop="20260311005455 +0000">
+        <title>Leçons de Vie</title>
+        <desc>L'arrivée de Michael D’Angelo, surnommé “Mr. D”, déplaît au doyen Matt Warner, qui vise le titre de meilleur enseignant. Leur rivalité finit cependant par profiter aux élèves.</desc>
+        <icon src="https://images.pluto.tv/series/670f6fb33d55320013159417/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260311005455 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Comédies Cultes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30623,7 +31008,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Face à l'angoisse d'un père confronté à la possession de sa fille par une entité féroce, trois exorcistes s'engagent dans une lutte impitoyable pour purger le démon de son corps.</desc>
         <icon src="https://images.pluto.tv/series/6822ec8e02c81f741835c981/tile_1768354370570.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20260310222829 +0000" stop="20260311020000 +0000">
+    <programme channel="6823648580b2665220d9e69a" start="20260310222829 +0000" stop="20260310235841 +0000">
+        <title>The Other Side</title>
+        <desc>Shirin emménage avec son petit ami Fredrik et son fils Lucas, âgé de 5 ans. Lorsque le garçon lui parle de son nouvel ami voisin, Shirin est inquiète car l'autre maison mitoyenne est inoccupée depuis des années.</desc>
+        <icon src="https://images.pluto.tv/series/6822ec8b02c81f7418355768/tile_1768343409463.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6823648580b2665220d9e69a" start="20260310235841 +0000" stop="20260311020000 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6823648580b2665220d9e69a/featuredImage-1757404098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31223,7 +31613,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
         <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260310220800 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260310220800 +0000" stop="20260310223800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260310223800 +0000" stop="20260310230800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260310230800 +0000" stop="20260311020000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31233,7 +31633,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260310221000 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260310221000 +0000" stop="20260310224000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260310224000 +0000" stop="20260310231000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260310231000 +0000" stop="20260311020000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31243,7 +31653,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260310220719 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260310220719 +0000" stop="20260310223719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260310223719 +0000" stop="20260310230719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260310230719 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31253,7 +31673,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
         <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260310221518 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260310221518 +0000" stop="20260310224518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260310224518 +0000" stop="20260310231518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260310231518 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31263,7 +31693,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
         <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260310221000 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260310221000 +0000" stop="20260310224000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260310224000 +0000" stop="20260310231000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260310231000 +0000" stop="20260311020000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31273,7 +31713,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>A la suite d'un reportage aux infos, Carly est bien décidée à prouver à tout le monde que BIGFOOT, un primate humanoïde, existe réellement.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260310220230 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260310220230 +0000" stop="20260310222730 +0000">
+        <title>iCarly: Freddie déménage!</title>
+        <desc>Freddie ne supporte plus que ça mère le traite comme un bébé et déménage. Carly et Sam monte une affaire de photographie animalière, mais sont vite dérangées par d'autres photographes ne supportant pas la concurrence.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260310222730 +0000" stop="20260310225230 +0000">
+        <title>iCarly: Vague de chaleur</title>
+        <desc>A cause de la vague de chaleur, la ville subit une panne de courant. Spencer, toujours plein da ressource, met en marche un générateur électrique et un climatiseur ultra performant.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260310225230 +0000" stop="20260310231730 +0000">
+        <title>iCarly: La psychopathe - Première partie</title>
+        <desc>L'équipe d'iCarly doit se rendre au Webicône à Olympia, un festival qui réunit toutes les plus grandes stars du Web... Avant de partir, ils reçoivent un mail vidéo de Nora, une jeune fan désespérée et sans ami.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260310231730 +0000" stop="20260311020000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31283,7 +31738,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>The best of the worst for January '26.</desc>
         <icon src="https://images.pluto.tv/series/68dbb900e466f791b5fb507a/tile_1759230233728.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260310221600 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260310221600 +0000" stop="20260310224700 +0000">
+        <title>Best Fails of the Month</title>
+        <desc>The best of the worst for February '26.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb900e466f791b5fb507a/tile_1759230233728.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260310224700 +0000" stop="20260310231800 +0000">
+        <title>Best Fails of the Month</title>
+        <desc>From small slips to total wipeouts, here are the top 100 fails that ruled 2025.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb900e466f791b5fb507a/tile_1759230233728.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260310231800 +0000" stop="20260311020000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31293,7 +31758,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le sucre est présent dans 80 % des aliments consommés. Sur le point de devenir père, le réalisateur Damon Gameau se lance dans une dangereuse expérience : il teste les effets d'une alimentation riche en sucre sur un corps en bonne santé.</desc>
         <icon src="https://images.pluto.tv/series/68c2d600b76cf0ad372db113/tile_1757599233883.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260310220423 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260310220423 +0000" stop="20260310234513 +0000">
+        <title>2040</title>
+        <desc>Après Sugarland, Damon Gameau explore des solutions écologiques méconnues pour préserver l’avenir des enfants. Du Massachusetts à d'autres lieux innovants, il rencontre ceux qui agissent concrètement pour lutter contre le réchauffement climatique.</desc>
+        <icon src="https://images.pluto.tv/series/68ad5030b76cf0ad37f69d7c/tile_1768422962048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260310234513 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Inside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31303,7 +31773,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Les pâtissiers Laurel, Rags et Reeva s'affrontent dans la phase éliminatoire. Les deux finalistes devront impressionner les jurés en concoctant trois beignes sur le thème de la « cafétéria de l'école ». Le vainqueur remportera 10 000 $.</desc>
         <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260310222146 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260310222146 +0000" stop="20260310224646 +0000">
+        <title>Donut Showdown: Cinco de Mayo</title>
+        <desc>Jasmine et Marin, pâtissiers, et Ambergré, propriétaire d'un food truck vegan s'affrontent dans la phase éliminatoire. Les deux finalistes devront impressionner les jurés en concoctant trois beignes sur le thème fiesta mexicaine « Cinco de Mayo ».</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260310224646 +0000" stop="20260310231146 +0000">
+        <title>Donut Showdown: Nourriture de bar</title>
+        <desc>Les pâtissiers Sarah Beth, Bill et Rachel s'affrontent dans la phase éliminatoire. Les deux finalistes devront impressionner les jurés en concoctant trois beignes sur le thème « Nourriture de bar ». Le vainqueur remportera 10 000 $.</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260310231146 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31313,7 +31793,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260310222314 +0000" stop="20260311020000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260310222314 +0000" stop="20260310225314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260310225314 +0000" stop="20260310232314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260310232314 +0000" stop="20260311020000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31323,7 +31813,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Mise en lumière du travail des chercheurs qui protègent les lamantins au Belize.</desc>
         <icon src="https://images.pluto.tv/series/610bca29975c210013bff9ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260310221430 +0000" stop="20260311020000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260310221430 +0000" stop="20260310230630 +0000">
+        <title>1 000 jours pour la planète: L'aventure humaine : Les tortues du Costa Rica</title>
+        <desc>Un regard sur les menaces qui pèsent sur les tortues de mer qui nichent sur les plages du Costa Rica. Nous verrons aussi la bataille entre les écologistes et les braconniers.</desc>
+        <icon src="https://images.pluto.tv/series/610bca29975c210013bff9ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260310230630 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31333,7 +31828,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
         <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260310220200 +0000" stop="20260311020000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260310220200 +0000" stop="20260310223200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260310223200 +0000" stop="20260310230200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260310230200 +0000" stop="20260311020000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31343,7 +31848,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Against Strawberry’s advice, Orange adopts a baby fish and discovers she has her hands full when it turns out to be not a fish, but a tadpole-on-its-way-to-being-a-frog!</desc>
         <icon src="https://images.pluto.tv/series/62df82ee80410e0013d9c385/tile_1768196520950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260310222200 +0000" stop="20260311020000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260310222200 +0000" stop="20260310224700 +0000">
+        <title>Charlotte aux fraises : aventures à Fraisi-Paradis: Le poeme de Fraisinette</title>
+        <desc>Plum rallies her friends to be secret “shoemaker’s elves” for Raspberry and help her finish a dress, but things comically get out of hand.</desc>
+        <icon src="https://images.pluto.tv/series/62df82ee80410e0013d9c385/tile_1768196520950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260310224700 +0000" stop="20260310231200 +0000">
+        <title>Charlotte aux fraises : aventures à Fraisi-Paradis: Le voleur de violettes</title>
+        <desc>When the prize violets Lemon is raising for the flower show start mysteriously disappearing, Lemon jumps to some wrong conclusions.</desc>
+        <icon src="https://images.pluto.tv/series/62df82ee80410e0013d9c385/tile_1768196520950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260310231200 +0000" stop="20260311020000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31353,7 +31868,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Angéla rêve d’une carrière aquatique.</desc>
         <icon src="https://images.pluto.tv/series/615d7b3efba8ea001a317ce1/tile_1768218041986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260310221527 +0000" stop="20260311020000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260310221527 +0000" stop="20260310223927 +0000">
+        <title>Angela Anaconda: Les Travailleurs Du Burger // Sur Un Arbre Perchée</title>
+        <desc>Mark et Derek trouvent un travail à temps partiel. // Angéla est coincée dans un arbre.</desc>
+        <icon src="https://images.pluto.tv/series/615d7b3efba8ea001a317ce1/tile_1768218041986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260310223927 +0000" stop="20260310230327 +0000">
+        <title>Angela Anaconda: La Prise D’angela // Chaussures A Ses Pieds</title>
+        <desc>Angéla est experte en karaté. // Angéla vole une paire de chaussures par mégarde.</desc>
+        <icon src="https://images.pluto.tv/series/615d7b3efba8ea001a317ce1/tile_1768218041986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260310230327 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31363,7 +31888,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>L’Égypte antique au-delà des pyramides ressuscitent l'histoire, les mœurs et les religions de cette civilisation mystérieuse, dont les ruines marquent aujourd'hui encore les paysages de l’Égypte moderne.</desc>
         <icon src="https://images.pluto.tv/series/60ed3ca1dae50300131968e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260310225212 +0000" stop="20260311020000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260310225212 +0000" stop="20260310234312 +0000">
+        <title>L'Égypte antique au-delà des pyramides: Les Momies et les cryptes, 2e Partie</title>
+        <desc>L’Égypte antique au-delà des pyramides ressuscitent l'histoire, les mœurs et les religions de cette civilisation mystérieuse, dont les ruines marquent aujourd'hui encore les paysages de l’Égypte moderne.</desc>
+        <icon src="https://images.pluto.tv/series/60ed3ca1dae50300131968e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260310234312 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31373,7 +31903,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Thomas débarque à Pointe-à‐Pitre alors que toute la Guadeloupe bat au rythme du carnaval. Pour vivre de l'intérieur cette fête extraordinaire, il intègre un groupe de carnaval et fait l'expérience d'un déboulé haut en couleurs.</desc>
         <icon src="https://images.pluto.tv/series/6486cc485348f4001a0a5f5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260310225051 +0000" stop="20260311020000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260310225051 +0000" stop="20260310235051 +0000">
+        <title>Serial Tourist: Nouvelle-Caledonie</title>
+        <desc>Thomas Yzebe part en Nouvelle-­‐Calédonie, à la rencontre des habitants de Nouméa et de Lifou, une des îles de l'archipel. Une immersion en territoire mélanésien qui lui réserve de surprenantes découvertes.</desc>
+        <icon src="https://images.pluto.tv/series/6486cc485348f4001a0a5f5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260310235051 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31383,7 +31918,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260310220423 +0000" stop="20260311020000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260310220423 +0000" stop="20260310223423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260310223423 +0000" stop="20260310230423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260310230423 +0000" stop="20260311020000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31393,7 +31938,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le Milieu à l'ancienne dans les bistrots parisiens. Trois figures de la grande époque : Calloch le Bagnard, Lina la Tigresse et Mado les beaux châsses. Anecdotes truculentes et langue verte en compagnie d'Alphonse Boudard.</desc>
         <icon src="https://images.pluto.tv/series/65c0ea4ae764c00014458f8d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639b54404cfdf7000729b3c1" start="20260310220200 +0000" stop="20260311020000 +0000">
+    <programme channel="639b54404cfdf7000729b3c1" start="20260310220200 +0000" stop="20260310231500 +0000">
+        <title>Top à...</title>
+        <desc>Hommage au music-hall dans ce show endiablé mené par la pétulante Zizi Jeanmaire entourée de ses invités Alvin Stardust, Yves Lecoq, Jean Piat et tant d'autres.</desc>
+        <icon src="https://images.pluto.tv/series/65e84d1503625d001315d0b2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260310231500 +0000" stop="20260311020000 +0000">
         <title>INA 70</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31403,7 +31953,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31413,7 +31973,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260310221700 +0000" stop="20260311020000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260310221700 +0000" stop="20260310224100 +0000">
+        <title>Auction Hunters: La journée de gloire d'Allen</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260310224100 +0000" stop="20260310230500 +0000">
+        <title>Auction Hunters: La glace, la glace, bébé</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260310230500 +0000" stop="20260311020000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31423,7 +31993,27 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Suite à un court-circuit pendant que Bud regardait sa série  favorite, les deux personnages principaux de la série se retrouvent matérialisés dans la maison.</desc>
         <icon src="https://images.pluto.tv/series/6759c243091e2400135f7abd/tile_1768264929517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260310220009 +0000" stop="20260311020000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260310220009 +0000" stop="20260310221613 +0000">
+        <title>Les Zinzins de l'Espace</title>
+        <desc>Une voyante vient s’installer dans la maison à louer.</desc>
+        <icon src="https://images.pluto.tv/series/6759c243091e2400135f7abd/tile_1768264929517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260310221613 +0000" stop="20260310223217 +0000">
+        <title>Les Zinzins de l'Espace</title>
+        <desc>Un psychanalyste choisit de louer la maison pour y installer son divan.</desc>
+        <icon src="https://images.pluto.tv/series/6759c243091e2400135f7abd/tile_1768264929517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260310223217 +0000" stop="20260310224821 +0000">
+        <title>Les Zinzins de l'Espace</title>
+        <desc>Son robot crash-testeur ayant rendu son tablier suite à de trop systématiques incidents, Etno passe une petite annonce pour recruter un pilote d'essai de soucoupe volante.</desc>
+        <icon src="https://images.pluto.tv/series/6759c243091e2400135f7abd/tile_1768264929517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260310224821 +0000" stop="20260310230425 +0000">
+        <title>Les Zinzins de l'Espace</title>
+        <desc>Le nouveau locataire souffre de troubles du sommeil. Il a choisi la maison pour son calme et espère y trouver un repos réparateur.</desc>
+        <icon src="https://images.pluto.tv/series/6759c243091e2400135f7abd/tile_1768264929517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260310230425 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31433,7 +32023,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260310221721 +0000" stop="20260311020000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260310221721 +0000" stop="20260310224721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260310224721 +0000" stop="20260310231721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260310231721 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31443,7 +32043,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260310220000 +0000" stop="20260311020000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260310220000 +0000" stop="20260310223000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260310230000 +0000" stop="20260311020000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31453,7 +32063,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31463,7 +32083,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Les pêcheurs de Gloucester, dans le Massachusetts, doivent affronter des hordes de pêcheurs amateurs maladroits alors qu'ils pourchassent le lucratif thon rouge de l'Atlantique.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260310221500 +0000" stop="20260311020000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260310221500 +0000" stop="20260310230902 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Une tempête se dirige vers les zones de pêche de l'Atlantique Nord, mais comme la saison touche à sa fin, les capitaines n'ont d'autre choix que d'aller pêcher par mauvais temps.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260310230902 +0000" stop="20260311020000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31473,7 +32098,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Traversant plus de six départements sur près de 500 kilomètres, la rivière Dordogne se fraie un chemin entre des paysages variés et somptueux et un patrimoine d'une richesse rare. Dans la haute vallée de la Dordogne..</desc>
         <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1754431990848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260310225400 +0000" stop="20260311020000 +0000">
+    <programme channel="680291e38e1ff89c2427aefd" start="20260310225400 +0000" stop="20260310232500 +0000">
+        <title>Épicerie fine</title>
+        <desc>Rencontre avec le vigneron Pierre Dubreuil et la productrice de plantes aromatiques Véronique Briday, avant une découverte de la microfaune souterraine avec les spéléologues Josiane et Bernard Lips.</desc>
+        <icon src="https://images.pluto.tv/series/683482d30f8298da56907706/tile_1748271830116.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260310232500 +0000" stop="20260311020000 +0000">
         <title>Voyages &amp; Saveurs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31483,7 +32113,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Les Arts de la table à l’état brut, un appartement rénové dans Sarlat, les pianos de cuisson et au coin du feu</desc>
         <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a999bd33909bdd7d2fb1e" start="20260310220659 +0000" stop="20260311020000 +0000">
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260310220659 +0000" stop="20260310231556 +0000">
+        <title>La Maison France 5</title>
+        <desc>Ambiance cuir, rénovation d'une maison de village dans Uzès, le créatrice Catia Estèves</desc>
+        <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260310231556 +0000" stop="20260311020000 +0000">
         <title>La maison France 5</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/featuredImage_1751876561893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31493,7 +32128,22 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Barbie prépare une fête surprise d’anniversaire à Chelsea !</desc>
         <icon src="https://images.pluto.tv/series/691b4ab808b2fa12fa89d244/tile_1763405089590.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260310220730 +0000" stop="20260311020000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260310220730 +0000" stop="20260310225429 +0000">
+        <title>Barbie: Life in the City</title>
+        <desc>Barbie Brooklyn et son journal en ligne à New-York nous plonge au coeur de sa ville, New York !</desc>
+        <icon src="https://images.pluto.tv/series/6916ee284b5f5c0593c9546a/tile_1763110442956.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260310225429 +0000" stop="20260310231951 +0000">
+        <title>Polly Pocket (New)</title>
+        <desc>Polly a le droit de garder Paxton, 
+ mais elle comprend vite que ce
+ n'est pas si facile ! Pour le calmer
+ elles se lancent dans une 
+ grande aventure pour 
+ retrouver son ours en peluche !</desc>
+        <icon src="https://images.pluto.tv/series/693185d0779bf41d1d5b19b9/tile_1764853214924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260310231951 +0000" stop="20260311020000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31503,7 +32153,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260310221349 +0000" stop="20260311020000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260310221349 +0000" stop="20260310223830 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260310223830 +0000" stop="20260310230315 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260310230315 +0000" stop="20260311020000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31513,7 +32173,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Dans le monde disparu / Shtroumpfez les oiseaux</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260310222653 +0000" stop="20260311020000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260310222653 +0000" stop="20260310225441 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Les schtroumpfs en Irlande / La reine du Nil</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260310225441 +0000" stop="20260310232030 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Les schtroumpfs du Pharaon</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260310232030 +0000" stop="20260311020000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31523,7 +32193,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le must du ridicule s'offre des vacances méritées, mais pas de tout repos. Des gags à la piscine, à la mer ou aux sports d'hiver, il y en a pour tous les goûts.</desc>
         <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1767944161397.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260310222315 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260310222315 +0000" stop="20260310224715 +0000">
+        <title>Most Ridiculous: Le chantier</title>
+        <desc>Constructeurs, démolisseurs et bricoleurs du dimanche font tous partie du &amp;quot;Must du Ridicule&amp;quot;. Cette compilation vous fera exploser de rire.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1767944161397.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260310224715 +0000" stop="20260310231115 +0000">
+        <title>Most Ridiculous: Le pire du pire</title>
+        <desc>Cette compilation regroupe le pire du pire en vidéo. Les plus gros imbéciles de la race humaine et animale vont vous faire mourir de rire dans le Must du Ridicule.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1767944161397.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260310231115 +0000" stop="20260311020000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31533,7 +32213,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>More than half of a million dollars is up for grabs at Playground Poker Club in WPT Montreal.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260310222500 +0000" stop="20260311020000 +0000">
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260310222500 +0000" stop="20260311005300 +0000">
+        <title>World Poker Tour: WPT Bellagio 5 Diamond World Poker Classic</title>
+        <desc>More than $1.1 million is up for grabs at Bellagio in the WPT Five Diamond World Poker Classic.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260311005300 +0000" stop="20260311020000 +0000">
         <title>WPT</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31543,7 +32228,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
         <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Euronews</title>
+        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
+        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Euronews</title>
+        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
+        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31553,17 +32248,27 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
         <icon src="https://images.pluto.tv/series/66228e100fb7c10013ff6d8b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260310230000 +0000" stop="20260311020000 +0000">
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260310230000 +0000" stop="20260311010000 +0000">
+        <title>24/7 Primetime</title>
+        <desc>24/7 Primetime is your essential daily guide to all the stories shaping your world. Anchored by CBS News' Elizabeth Cook, the show delivers the news you need to know.</desc>
+        <icon src="https://images.pluto.tv/series/68ed5a7ba44f8dcccd701d09/tile_1760479390150.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260311010000 +0000" stop="20260311020000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310220000 +0000" stop="20260310221000 +0000">
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260311020000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260310231600 +0000">
+        <title>Boxing</title>
+        <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310231600 +0000" stop="20260311020000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31573,7 +32278,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le Figaro Live : l'information en direct et en continu</desc>
         <icon src="https://images.pluto.tv/series/67fe2c81fe2fd84ccf45a2e2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="650aff3398020f00086380cd" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="650aff3398020f00086380cd" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>Le Figaro TV</title>
+        <desc>Le Figaro Live : l'information en direct et en continu</desc>
+        <icon src="https://images.pluto.tv/series/67fe2c81fe2fd84ccf45a2e2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="650aff3398020f00086380cd" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>Le Figaro TV</title>
+        <desc>Le Figaro Live : l'information en direct et en continu</desc>
+        <icon src="https://images.pluto.tv/series/67fe2c81fe2fd84ccf45a2e2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="650aff3398020f00086380cd" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>Le Figaro TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/650aff3398020f00086380cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31583,7 +32298,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Diego Maradona's Argentina beating Germany FR in the Azteca explained.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7d96446070bd3ce281/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c2a2d2433010008df7e92" start="20260310220500 +0000" stop="20260311020000 +0000">
+    <programme channel="660c2a2d2433010008df7e92" start="20260310220500 +0000" stop="20260310235400 +0000">
+        <title>1986 FIFA World Cup</title>
+        <desc>Des moments légendaires aux matchs inoubliables, en passant par les histoires captivantes qui se cachent derrière les exploits des plus grandes stars, FIFA+ vous offre une expérience footballistique unique et immersive</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7b96446070bd3ce007/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20260310235400 +0000" stop="20260311020000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c2a2d2433010008df7e92/featuredImage_1750065043035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31593,7 +32313,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260310230000 +0000" stop="20260311020000 +0000">
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260310230000 +0000" stop="20260311000000 +0000">
+        <title>Top stories from CNN</title>
+        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
+        <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260311000000 +0000" stop="20260311020000 +0000">
         <title>CNN Headlines</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/featuredImage-1745400324562.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31623,7 +32348,17 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
         <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b78b83355184c667770" start="20260310223000 +0000" stop="20260311020000 +0000">
+    <programme channel="67921b78b83355184c667770" start="20260310223000 +0000" stop="20260310230000 +0000">
+        <title>UFC</title>
+        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
+        <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b78b83355184c667770" start="20260310230000 +0000" stop="20260310233000 +0000">
+        <title>UFC</title>
+        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
+        <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b78b83355184c667770" start="20260310233000 +0000" stop="20260311020000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b78b83355184c667770/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
