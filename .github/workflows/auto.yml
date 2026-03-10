@@ -32,7 +32,7 @@ jobs:
 
       - name: echo save to file pt1
         run: |
-          echo "#EXTM3U\r\n#EXT-X-INDEPENDENT-SEGMENTS\r\n" > t2.m3u8
+          echo -e "#EXTM3U\r\n#EXT-X-INDEPENDENT-SEGMENTS\r\n" > t2.m3u8
 
       - name: Find line and save to file pt2
         run: |
