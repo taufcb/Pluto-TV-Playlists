@@ -2066,6 +2066,12 @@
         <desc>Quand James doit annuler ses vacances d'été de rêve pour économiser pour ses études, le seul emploi qu'il peut obtenir est celui à Adventureland, un parc d'attractions de pacotille où les jeux sont truqués et les manèges font vomir.</desc>
         <icon src="https://images.pluto.tv/series/6617cf584da6e300139c42ca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260310031720 +0000" stop="20260310050020 +0000">
+        <title>Breaking Up</title>
+        <desc>L’incarnation même de la relation par intermittence.
+« Breaking Up » raconte l’histoire d’amour intense entre Steve, photographe, et Monica, institutrice, qui ne peuvent être ensemble mais qui semblent aussi ne pas pouvoir vivre séparés l’un de l’autre.</desc>
+        <icon src="https://images.pluto.tv/series/607004a533e416001a4043d6/tile_1768333566122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60afae68a7fc50000737186d" start="20260309225900 +0000" stop="20260309232600 +0000">
         <title>Les années fac: Au bord du gouffre</title>
         <desc>Tandis que Daniel attend désespérément le retour de Gabrielle, Annette annonce à ses amis qu’après sa rupture avec Justine, elle préfère retourner à Montelimar. Virginie essaye de la dissuader, mais en vain...</desc>
@@ -2176,6 +2182,11 @@
         <desc>Six étudiants effectuent un voyage en covoiturage, jusqu'à ce que l’un de leur pneu ne crève au beau milieu de nulle part aux Etats-Unis. Mais ce pneu crevé n'est pas un accident...</desc>
         <icon src="https://images.pluto.tv/series/610117de5233ba00136a0716/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60b4d6c806ad2a00073b3108" start="20260310032821 +0000" stop="20260310051221 +0000">
+        <title>Clown</title>
+        <desc>Le clown qui devait animer la fête anniversaire de son fils ne s’étant pas présenté, un papa décide le remplacer. Il enfile le costume de clown qu’il a trouvée dans un vieil...</desc>
+        <icon src="https://images.pluto.tv/series/63c50138377c6f00135a8411/tile_1768499453639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c34592c911890007f29a73" start="20260309225042 +0000" stop="20260310005132 +0000">
         <title>Mutant Chronicles</title>
         <desc>Mitch Hunter, soldat du 28e siècle, mène un combat contre une armée de mutants de la pègre.</desc>
@@ -2205,6 +2216,11 @@
         <title>Darkness</title>
         <desc>Une famille avec un petit garçon et un père instable au bord de la crise de nerfs vient de s’installer dans une maison qui abrite un terrible secret, un passé abominable où il est question de sept enfants, de gens sans visages.</desc>
         <icon src="https://images.pluto.tv/series/6103affb94cf330013d25859/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20260310030140 +0000" stop="20260310044040 +0000">
+        <title>La possession de Paul Twist</title>
+        <desc>Déterminé à finir à temps le travail le plus important de sa carrière, un écrivain s'isole dans son appartement. Après des jours d'enfermement, il plonge dans un monde cauchemardesque où il n'y a pas de distinction entre fiction et réalité...</desc>
+        <icon src="https://images.pluto.tv/series/61cc6e01fef5db001a049046/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e0522443200008c567d7" start="20260309225216 +0000" stop="20260310000216 +0000">
         <title>Chez Maupassant FR: Boule de Suif</title>
@@ -11718,6 +11734,14 @@
 3. L'escroquerie à 10 millions d'euros</desc>
         <icon src="https://images.pluto.tv/series/67f92ba01426f2773e58cd83/tile_1768265642560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260310110409 +0000" stop="20260310132101 +0000">
+        <title>Présumé innocent</title>
+        <desc>Les affaires :
+1. L'affaire Agnès
+2. De l'erreur au miracle judiciaire
+3. Reclus de Monflanquin : une famille sous emprise</desc>
+        <icon src="https://images.pluto.tv/series/67f92ba01426f2773e58cd83/tile_1768265642560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="604f8de01b479400078fb1e7" start="20260310064600 +0000" stop="20260310071400 +0000">
         <title>Hélène et les garçons: Changement</title>
         <desc>Christian redevient peu à peu lui-même. Il avoue à ses amis qu'il aime toujours Johanna et que Thérèse ne peut être qu'une amie. Toute la bande est rassurée lorsque Linda demande à Christian de la raccompagner.</desc>
@@ -16492,6 +16516,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <title>The House Of The Spirits</title>
         <desc>La Maison aux Esprits est une saga familiale romantique retraçant trois générations de la famille Trueba. Au cœur de cette saga se trouve la relation passionnée entre Clara, une jeune femme dotée d'un don surnaturel, et son mari autoritaire, Esteban.</desc>
         <icon src="https://images.pluto.tv/series/6901f0e269032f4edfddcaef/tile_1761734886261.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260310154353 +0000" stop="20260310181553 +0000">
+        <title>La vengeance aux deux visages</title>
+        <desc>Sonora, un village mexicain, en 1880. Rio et Dad Longworth pillent la banque locale et fuient, poursuivis par les Rurales. Le cheval de Rio est atteint par une balle, et Dad poursuit sa route après avoir promis à Rio de revenir avec une autre monture.</desc>
+        <icon src="https://images.pluto.tv/series/6103b0fba5659300134ef3b5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260310104642 +0000" stop="20260310122842 +0000">
         <title>Street Dancing Ninja</title>
