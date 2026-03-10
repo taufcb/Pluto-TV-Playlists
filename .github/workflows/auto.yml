@@ -34,10 +34,9 @@ jobs:
         run: |
           echo "#EXTM3U\r\n#EXT-X-INDEPENDENT-SEGMENTS\r\n" > t2.m3u8
 
-       - name: Find line and save to file pt2
+      - name: Find line and save to file pt2
         run: |
           grep "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 >> t2.m3u8
-          
           
       - name: Show result
         run: cat t2.m3u8
