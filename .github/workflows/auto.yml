@@ -32,11 +32,11 @@ jobs:
 
       - name: echo save to file pt1
         run: |
-          echo -e "#EXTM3U\r\n#EXT-X-INDEPENDENT-SEGMENTS\r\n" > t2.m3u8
+          echo -e "#EXTM3U\r\n#EXT-X-VERSION:3\r\n#EXT-X-INDEPENDENT-SEGMENTS\r\n#EXT-X-STREAM-INF:BANDWIDTH=8791200,AVERAGE-BANDWIDTH=8461200,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000\r\n" > t2.m3u8
 
       - name: Find line and save to file pt2
         run: |
-          grep "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 >> t2.m3u8
+          grep -m 2 "681109b688b9d85d0938c6ba" output/plutotv_us.m3u8 >> t2.m3u8
           
       - name: Show result
         run: cat t2.m3u8
