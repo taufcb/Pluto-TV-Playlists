@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV
 
 ## Credits
 
-This project is based on pluto_tv_scraper by 4v3ngR.
+This project is based on pluto_tv_scraper by 4v3ngR
 
 Original project:  
 https://github.com/4v3ngR/pluto_tv_scraper
